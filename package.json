@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "cftemplate": "^1.0.3",
+    "commonform-cli": "^0.19.0"
+  }
+}
