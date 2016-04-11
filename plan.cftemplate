@@ -13,7 +13,7 @@ This is a plan for ""Company"", [Company Name], to give ""Awards"" of <Company> 
         \\
         This plan helps some <Awards> qualify for good tax treatment. 
         For example, some <Awards> of stock can qualify for the special tax elections under section 83(b) of the Internal Revenue Code. 
-        Some <Awards> of options can qualify for special treatment as "Incentive Stock Options" under sections 422 and 421 of the Internal Revenue Code. 
+        Some <Awards> of options can qualify for special treatment as ""Incentive Stock Options"" under section 422 of the Internal Revenue Code, the ""Tax Code Section on ISOs"". 
         This plan cannot guarantee good tax treatment or tell people who get <Awards> how to keep their tax low. 
         But it can help <Awards> qualify for special treatment that people who get <Awards> might want.
 
@@ -28,6 +28,33 @@ This is a plan for ""Company"", [Company Name], to give ""Awards"" of <Company> 
 
     \ Stock Pool \
 
+        \ Shares in the Pool \
+        The <Administrator> may issue up to [Pool Shares] shares of the <Company>'s common stock under <Awards> under this plan. 
+        This number is called the ""Pool"", and its starting size is called the ""Starting Size of the Pool"". 
+        The <Administrator> may issue the whole <Pool> under <Incentive Stock Options> if it chooses.
+
+        # Consider "recycle"
+        \ Returning Shares to the Pool \
+        Some stock under <Awards> can return to the <Pool>, to be recycled under new <Awards>.
+
+            \\ When an <Award> expires before all the <Company> issues all the stock under it, the stock the <Company> has not issued returns to the <Pool>.
+
+            \\ When an <Award> can no longer be exercised, any stock under the <Award> that the <Company> has not issued returns to the <Pool>.
+
+            \\ When an <Option> is traded in under an <Option Exchange Program>, the stock under the <Option> returns to the <Pool>.
+
+            \\ When the <Company> holds back shares under an <Award> to cover part of the <Recipient>'s purchase price or withholding tax, the stock the <Company> holds back returns to the <Pool>.
+
+            \\ When <Restricted Shares> are forfeited to the <Company>, those shares return to the <Pool>.
+
+            \\ When the <Company> uses a <Repurchase Right> to buy back <Restricted Shares>, those shares return to the <Pool>.
+
+        Stock stops returning to the <Pool> when this plan terminates.
+
+        \ Adjusting the Size of the Pool \
+        The number of shares in the <Pool> can be adjusted under {When the Company's Structure Changes}. 
+        However, the <Administrator> cannot issue more than the <Starting Size of the Pool> under <Incentive Stock Options> unless the <Section of the Tax Code on ISOs> allows the <Administrator> to recycle more shares.
+
 #   \ Administration \
 
 #   \ Awards \
@@ -40,7 +67,7 @@ This is a plan for ""Company"", [Company Name], to give ""Awards"" of <Company> 
 
 #   \ Tax \
 
-#   \ Adjustments \
+#   \ When the Company's Structure Changes \
 
 #   \ Transferring Awards and Stock \
 
