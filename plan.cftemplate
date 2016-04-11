@@ -22,14 +22,14 @@ This is a plan for ""Company"", [Company Name], to give ""Awards"" of <Company> 
         It sets up a process for giving <Awards>, and rules for adjusting them if the <Company> reorganizes itself. 
         It also comes with standard forms for several kinds of <Awards>.
 
-    \ Structure \
+    \ Contents \
     This plan sets out rules for its administration and for <Awards> generally. 
-    It also gives some words and phrases specific definitions, in {Definitions}, that apply throughout this plan and <Awards> documents.
+    It also gives some words and phrases specific definitions that apply throughout this plan and <Awards> documents.
 
     \ Stock Pool \
 
         \ Shares in the Pool \
-        The <Administrator> may issue up to [Pool Shares] shares of the <Company>'s common stock under <Awards> under this plan. 
+        Under this plan, the <Administrator> may issue up to [Pool Shares] shares of the <Company>'s common stock under <Awards>. 
         This number is called the ""Pool"", and its starting size is called the ""Starting Size of the Pool"". 
         The <Administrator> may issue the whole <Pool> under <Incentive Stock Options> if it chooses.
 
@@ -55,7 +55,71 @@ This is a plan for ""Company"", [Company Name], to give ""Awards"" of <Company> 
         The number of shares in the <Pool> can be adjusted under {When the Company's Structure Changes}. 
         However, the <Administrator> cannot issue more than the <Starting Size of the Pool> under <Incentive Stock Options> unless the <Section of the Tax Code on ISOs> allows the <Administrator> to recycle more shares.
 
-#   \ Administration \
+    \ Administration \
+
+        \ Who Administers this Plan? \
+        The board of directors of the <Company>, the ""Board"", decides who administers this plan. 
+        The <Board> may decide that:
+
+            \\
+            The <Board> administers this plan.
+
+            \\
+            A <Board> committee administers this plan.
+
+            \\
+            The <Board> and a <Board> committee administer this plan.
+
+        A <Company> officer or group of <Company> officers may make <Awards> under guidelines set by the <Board>, if the law allows. 
+        But the <Board> may not allow <Company> officers to make <Awards> to those covered by section 16 of the <Exchange Act> (Directors, Officers, and Principal Stockholders).
+
+        \ Changing Who Administers the Plan \
+        The <Board> may change who administers this plan over time. 
+        If the <Board> uses a <Board> committee to administer any part of this plan, the <Board> may add, remove, and replace committee members, and dissolve the committee as a whole, as the law allows. 
+        If the <Board> has a <Board> committee administer this plan under <Rule 16b-3> (Transactions between an issuer and its officers or directors) or section 162(m) of the <Tax Code> (Certain excessive employee remuneration), the <Board> must follow those laws in making changes to the committee, too.
+
+        \ What the Administrator Does \
+        Subject to {When Participants Must Agree to Changes}:
+
+            \\
+            The <Administrator> determines the <Fair Market Value> for all participants in this plan under {Determining Fair Market Value}.
+
+            \\
+            The <Administrator> decides which <Company> <Employees> and <Consultants> receive <Awards>.
+
+            \\
+            The <Administrator> determines the number of shares under each <Award>.
+
+            \\
+            The <Administrator> approves form agreements for <Awards> and other documents under the plan.
+
+            \\
+            The <Administrator> determines the terms of <Awards>, within the guidelines of this plan.
+
+            \\
+            The <Administrator> may amend agreements about <Optioned Stock> and <Restricted Stock>.
+
+            \\
+            The <Administrator> may decide to buy out options under {Buying Out Options}.
+
+            \\
+            The <Administrator> can set up and run an <Option Exchange Program> under {Running an Option Exchange Program} without additional <Company> stockholder approval.
+
+            \\
+            The <Administrator> may add and change country-specific terms to this plan under {Terms for Foreign Participants}.
+
+            \\
+            The <Administrator> may decide what the terms of this plan, documents under this plan, and agreements and other documents for <Awards>, mean. 
+            The <Administrator>'s decisions on meaning apply to all <Participants>.
+
+        \ When Participants Must Agree to Changes \
+        The <Administrator> may not make changes to <Awards> and related agreements with significant negative effects on <Participants>, unless they agree.
+
+        \ Indemnification \
+        If anyone involved in administering this plan, as a member of the <Board>, a <Board> committee, or a <Company> officer, becomes involved in legal action related to this plan or an <Award> under it, the <Company> shall pay all the losses, costs, liability, judgments, and reasonable expenses they incur as a result. 
+        However, the <Company> shall not pay any settlement amounts it did not approve in advance, nor any amounts at all for anyone as a result of legal action in which a court finds they failed to act in good faith. 
+        To receive payment, those covered must give the <Company> a chance to take over defending the legal action, at <Company> expense, before they start defending it themselves. 
+        This indemnification right does not replace or limit any other rights to indemnification those covered may have.
 
 #   \ Awards \
 
@@ -72,3 +136,5 @@ This is a plan for ""Company"", [Company Name], to give ""Awards"" of <Company> 
 #   \ Transferring Awards and Stock \
 
 #   \ Common Definitions \
+
+#   \ Definitions \
