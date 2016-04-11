@@ -184,6 +184,9 @@ This is a plan for ""Company"", [Company Name], to give ""Awards"" of <Company> 
 
         \ Exercise \
 
+            \ Who Can Exercise \
+            Subject to {Transferring Awards}, only the holder of an <Option> can exercise it.
+
             \ Exercise Terms \
             The <Administrator> shall decide how <Options> can be exercised, within the limits set by this plan, and state them in <Option Agreements>.
 
@@ -395,6 +398,57 @@ This is a plan for ""Company"", [Company Name], to give ""Awards"" of <Company> 
 
             \\
             the consummation of a transaction, or series of related transactions, in which any "person" (as used in sections 13(d) and 14(d) of the <Exchange Act>) becomes the "beneficial owner" (as defined in Rule 13d-3 of the <Exchange Act>), directly or indirectly, of more than fifty percent of the <Company>'s then outstanding capital stock
+
+    \ Transfer Limits \
+
+        \ Transfer Limits on Awards \
+
+            \ No Transferring Awards \
+            Other than under {Transfer by Will and Inheritance}, {While the Company Relies on 12h-1(f)} and {Transfers to Trusts}, no one may <Transfer an Award>.
+
+            \\ ""Transfer an Award"" means, of an <Award> or any right under any <Award>, selling, pledging, assigning, or using to secure a debt, taking a short position, taking a "put equivalent position" (as defined in Rule 16a-1(h) of the <Exchange Act>), or taking a "call equivalent position" (as defined in Rule 16a-1(b) of the <Exchange Act>). 
+            Naming a beneficiary does not <Transfer an Award>.
+
+            \ Transfer by Will and Inheritance \
+            A <Participant> may <Transfer an Award> by will or under inheritance law.
+
+            \ While the Company Relies on 12h-1(f) \
+            With four exceptions, no one may <Transfer an Award> that is an <Option>, or any stock under any <Option>, while the <Company> is relying on the securities law exemption under Rule 12h-1(f)(1) of the <Exchange Act>. 
+            The <Board> alone decides when the <Company> is relying on that exemption. 
+            The exceptions are:
+                \\ transfer to <Family Members> by gift or under domestic relations orders
+                \\ transfer to a <Participant>'s executor on death
+                \\ transfer to a <Participant>'s guardian on disability
+                \\ <Board>-approved transfer of <Nonstatutory Stock Options> to the <Company> in connection with an acquisition transaction per Rule 12h-1(f)
+
+            \ Transfers to Trusts \
+            The <Administrator> may allow a <Participant> to transfer a <Nonstatutory Stock Option> to a living trust or will trust, so long as the trust will gift the <Nonstatutory Stock Option> to <Family Members> or pass it to beneficiaries when the maker of the trust dies.
+
+        \ Transfer Limits on Stock \
+
+            \ No Transferring Stock \
+            <Stock Transfer> is not allowed, unless the <Company>'s specific permission, in writing and in advance.
+            The <Company> may refuse permission for a <Stock Transfer> for any reason. 
+
+            \\
+            ""Stock Transfer"" means any transfer, read broadly, of any interest in stock acquired under an <Award>.
+            Selling, gifting, placing in trust, pledging for a debt, or allowing a lien to apply to stock are each an example of a <Stock Transfer>.
+            So are transactions, like short sales, offsetting derivatives, futures, forward contracts, that significantly change the financial risk and benefits of owning stock. 
+            Giving another the right to vote or take other action as a stockholder, perhaps by proxy, is also a <Stock Transfer>. 
+            An agreement to do a <Stock Transfer> is itself a <Stock Transfer>.
+
+            \ Attempted Transfers \
+            Any attempted <Transfer> in violation of this plan has no legal effect. 
+            The <Company> will neither transfer shares under such a transfer on its books, nor treat the attempted recipient the as if they had rights as a shareholder.
+
+            \ Approval Process \
+            A <Participant> may request permission to <Transfer> shares by writing the secretary of the <Company> with all of the following information: 
+                \\ their name
+                \\ the name of the proposed recipient of the shares
+                \\ the number of shares
+                \\ the purchase price
+            The <Company> may require additional information of the <Participant>. 
+            The <Participant>'s request will also fall under any right of first refusal, transfer provision, or other term of their <Award Agreement>.
 
     \ No Employment Rights \
     Neither this plan nor any <Award> under it give anyone any right to continued employment or contract work.
