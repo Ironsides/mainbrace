@@ -97,10 +97,10 @@ This is a plan for ""Company"", [Company Name], to give ""Awards"" of <Company> 
             The <Administrator> may amend agreements about <Optioned Stock> and <Restricted Stock>.
 
             \\
-            The <Administrator> may decide to buy out options under {Buying Out Options}.
+            The <Administrator> may decide to buy out options under {Option Buyout}.
 
             \\
-            The <Administrator> can set up and run an <Option Exchange Program> under {Running an Option Exchange Program} without additional <Company> stockholder approval.
+            The <Administrator> can set up and run an <Option Exchange Program> without additional <Company> stockholder approval.
 
             \\
             The <Administrator> may add and change country-specific terms to this plan under {Terms for Foreign Participants}.
@@ -187,7 +187,7 @@ This is a plan for ""Company"", [Company Name], to give ""Awards"" of <Company> 
         \ Exercise \
 
             \ Who Can Exercise \
-            Subject to {Transferring Awards}, only the holder of an <Option> can exercise it.
+            Subject to {Transfer Limits on Awards}, only the holder of an <Option> can exercise it.
 
             \ Exercise Terms \
             The <Administrator> shall decide how <Options> can be exercised, within the limits set by this plan, and state them in <Option Agreements>.
