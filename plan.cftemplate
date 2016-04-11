@@ -214,6 +214,30 @@ This is a plan for ""Company"", [Company Name], to give ""Awards"" of <Company> 
             An <Optionee> exercising an <Option> does not have the right to vote, the right to received dividends, or any other rights as owner of the stock they purchase until the <Company> issues the shares and records their ownership in its corporate books or with its transfer agent. 
             Subject to {Adjustments}, the <Company> will not adjust dividend or other rights based on record dates before <Optionee> stock is issued and recorded.
 
+            \ Leaving the Company \
+            The <Administrator> decides whether and how long an <Optionee> can exercise each <Option> after their <Service with the Company> ends, and reflect that decision in the <Option Agreement>. 
+            The <Administrator> may waive or change their decision at any time. 
+            By default, these terms apply:
+
+                \ Deadline to Exercise \
+                If an <Option> is not exercised before its deadline, the <Option> immediately terminates, and all stock under the <Option> returns to the <Pool> under {Returning Shares to the Pool}.
+
+                \ Disability \
+                Per section 422(c)(6) of the <Tax Code>, if an <Optionee>'s <Service to the Company> ends because of their <Disability>, the deadline to exercise an <Option> is the first anniversary of their last day of <Service to the Company>.
+
+                \ Death \
+                Per section 422(b)(5) of the <Tax Code>, if an <Optionee> dies, either during their <Service to the Company> or within three months of their last day of <Service to the Company>, the deadline to exercise their <Option> is the first anniversary of their last day of <Service to the Company>.
+
+                \ Termination for Cause \
+                If the <Company> ends an <Optionee>'s <Service to the Company> for <Cause>, all their <Options> terminate immediately as soon as they learn their <Service to the Company> has ended. 
+                If the <Company> suspends an <Optionee>'s <Service to the Company> to investigate whether to end their <Service to the Company> for <Cause>, all rights under all their <Options> suspend until the investigation ends.
+                # TODO Review
+                These rules do not limit any <Company> right to purchase unvested shares under any <Option Agreement>.
+
+                # TODO Change the default?
+                \ Leaving the Company Generally \
+                Otherwise, the deadline to exercise an <Option> is three months from the <Optionee>'s last day of <Service to the Company>.
+
     \ No Employment Rights \
     Neither this plan nor any <Award> under it give anyone any right to continued employment or contract work.
 
