@@ -464,6 +464,13 @@ This is a plan for ""Company"", [Company Name], to give ""Awards"" of <Company> 
     \ Changes to the Plan \
     Subject to {When Participants Must Agree to Changes} and any legal requirements, the <Board> may change this plan over time.
 
+    \ Issuing Shares \
+    Despite any term of this plan or any <Award Agreement>, the <Company> will not issue any stock under this plan unless the <Company>, with its lawyers, decides that doing so would be legal. 
+    The <Company> will not be liable to anyone for delaying or refusing to issue shares in a way it believes would break the law. 
+    If the <Company>'s lawyers request, the <Company> may requires a <Participant> to make representations and warranties at the time they exercise an <Option> or buy <Restricted Stock> to comply with the law and requirements for securities laws exemptions. 
+    # TODO Necessary to restate
+    Stock received by exercising an <Option> or buying <Restricted Stock>, before the <Company>'s commons stock becomes a <Listed Security>, is subject to <Company> rights of first refusal per the <Award Agreement>.
+
 #       \ Restricted Stock \
 
 #   \ Who is Eligible for Awards \
