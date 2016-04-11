@@ -260,7 +260,7 @@ This is a plan for ""Company"", [Company Name], to give ""Awards"" of <Company> 
             \\ by check
             \\ if the law allows, by promissory note with terms the <Administrator> decides
             \\ by canceling debt
-            \\ by surrendering shares, for <Fair Market Value> at the time
+            \\ by surrendering shares the <Participant> already owns, for their <Fair Market Value> at the time
             \\ <Cashless Exercise>
             \\ in any other legal way
             \\ by any combination
@@ -285,6 +285,17 @@ This is a plan for ""Company"", [Company Name], to give ""Awards"" of <Company> 
         \ Stockholder Rights \
         A <Participant> purchasing <Restricted Stock> does not have the right to vote, the right to received dividends, or any other rights as owner of the stock they purchase until the <Company> issues the shares and records their ownership in its corporate books or with its transfer agent. 
         Subject to {Adjustments}, the <Company> will not adjust dividend or other rights based on record dates before <Restricted Stock> is issued and recorded.
+
+    \ Tax \
+
+        \ Making Arrangements for Tax \
+        Receiving an <Award>, exercising an <Award>, accumulate vesting, and lapsing a buyback right are all conditioned on the <Participant> making any arrangements the <Administrator> requires for covering tax obligations under foreign, federal, state, and local tax law. 
+        The <Company> will not issue stock until tax obligations are covered.
+
+        \ Cashless Exercise \
+        As the law allows, the <Administrator> allow a <Participant> to cover all or part of their tax obligations by <Cashless Exercise> and surrendering shares the <Participant> already owns. 
+        Unless the <Company> gives specific permission, every <Cashless Exercise> must either be broker-assisted or limited to avoid financial accounting charges, and the <Participant> must have held shares surrendered for a <Cashless Exercise> for enough time to avoid financial accounting charges. 
+        Laws and regulations may impose other restrictions on paying tax by surrendering shares.
 
     \ No Employment Rights \
     Neither this plan nor any <Award> under it give anyone any right to continued employment or contract work.
