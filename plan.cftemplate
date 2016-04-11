@@ -52,7 +52,7 @@ This is a plan for ""Company"", [Company Name], to give ""Awards"" of <Company> 
         Stock stops returning to the <Pool> when this plan terminates.
 
         \ Adjusting the Size of the Pool \
-        The number of shares in the <Pool> can be adjusted under {When the Company's Structure Changes}. 
+        The number of shares in the <Pool> can be adjusted under {Adjustments}. 
         However, the <Administrator> cannot issue more than the <Starting Size of the Pool> under <Incentive Stock Options> unless the <Section of the Tax Code on ISOs> allows the <Administrator> to recycle more shares.
 
     \ Administration \
@@ -296,6 +296,105 @@ This is a plan for ""Company"", [Company Name], to give ""Awards"" of <Company> 
         As the law allows, the <Administrator> allow a <Participant> to cover all or part of their tax obligations by <Cashless Exercise> and surrendering shares the <Participant> already owns. 
         Unless the <Company> gives specific permission, every <Cashless Exercise> must either be broker-assisted or limited to avoid financial accounting charges, and the <Participant> must have held shares surrendered for a <Cashless Exercise> for enough time to avoid financial accounting charges. 
         Laws and regulations may impose other restrictions on paying tax by surrendering shares.
+
+    \ Adjustments \
+
+        \ Proportional Adjustment \
+        Subject to any stockholder approval required by law, all <Stock-Related Attributes> under this plan are automatically adjusted, proportionally, whenever the <Company> makes a <Stock Change>.
+
+        \\ ""Stock-Related Attributes"" means all of:
+
+            \\ number and kind of securities in the <Pool>
+
+            \\ number and kind of securities under any <Award>
+
+            \\ exercise price per share under any <Option>
+
+            \\ price per share under any <Company> buyback right under any <Award>
+
+        \\ ""Stock Change"" means all of:
+
+            \\ stock split
+
+            \\ reverse stock split
+
+            \\ stock dividend
+
+            \\ combination
+
+            \\ consolidation
+
+            \\ reclassification of shares
+
+            \\ subdivision of shares
+
+        \\
+        The <Administrator> may adjust any <Stock-Related Attributes> as it thinks appropriate whenever the <Company> does a <Reorganization>. 
+        The <Administrator>'s changes are final.
+
+
+        \\ ""Reorganization"" means all of:
+
+            \\ the number of issued shares changes without the <Company> receiving any legal "consideration"
+
+            \\ the <Company> declares an extraordinary dividend for shares paid other than in shares with a significant effect on <Fair Market Value>
+
+            \\ recapitalization, including through a large nonrecurring cash dividend
+
+            \\ rights offering
+
+            \\ reorganization
+
+            \\ merger
+
+            \\ spin-off
+
+            \\ split-up
+
+            \\ change in corporate structure
+
+            \\ similar occurrence
+
+        \\
+        Otherwise, the fact that the <Company> issues stock or securities convertible to stock will not affects or prompt any adjustment to any <Stock-Related Attributes> under any <Award>.
+
+        \\
+        Whenever a <Stock Change> or <Reorganization> leads to an adjustment of a <Participant>'s <Award> or <Award Agreement> so that it covers more or different securities, those securities are subject to the same terms.
+
+        \ Dissolution and Liquidation \
+        Unless the <Administrator> decides differently, every <Awards> terminates immediately before any dissolution or liquidation of the <Company>.
+
+        \ Corporate Transactions \
+        The <Administrator> decides how to treat each <Award> whenever the <Company> does a <Corporate Transaction>, without any consent from any <Participant>. 
+        The <Administrator> may treat <Awards> differently.
+        For example, the <Administrator> may choose 
+        The <Administrator> will decide that:
+
+            \\
+            the <Company>, if it survives the <Corporate Transaction>, will continue an outstanding <Award>
+
+            \\
+            a different corporation that survives the <Corporate Transaction>, or its parent company, will continue an outstanding <Award>
+
+            \\
+            a different corporation that survives the <Corporate Transaction>, or its parent company, will substitute a new option or equity award for an <Award>
+
+            \\
+            the <Company> will cancel the <Award> in exchange for payment of the amount by which the <Fair Market Value> of the shares under the <Award> on the closing date of the <Corporate Transaction> exceed the exercise price or purchase price under the <Award>
+
+            \\
+            the <Company> will cancel the <Award> for nothing
+
+        \\ ""Corporate Transaction"" means any of:
+
+            \\
+            transfer of all or substantially all the <Company>'s assets
+
+            \\
+            merger, consolidation, other capital reorganization, or other business combination transaction of the <Company> with or into another corporation, entity, or person
+
+            \\
+            the consummation of a transaction, or series of related transactions, in which any "person" (as used in sections 13(d) and 14(d) of the <Exchange Act>) becomes the "beneficial owner" (as defined in Rule 13d-3 of the <Exchange Act>), directly or indirectly, of more than fifty percent of the <Company>'s then outstanding capital stock
 
     \ No Employment Rights \
     Neither this plan nor any <Award> under it give anyone any right to continued employment or contract work.
