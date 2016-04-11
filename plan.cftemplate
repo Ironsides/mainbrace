@@ -167,18 +167,18 @@ This is a plan for ""Company"", [Company Name], to give ""Awards"" of <Company> 
             \ Special Exercise Prices \
             The <Administrator> can set lower exercise prices pursuant to a merger or other corporate transaction.
 
-        \ Option Payments \
-        The <Administrator> determines how <Participants> must pay to exercise <Options> under this plan. 
+        \ Payment to Exercise Options \
+        The <Administrator> decides how <Participants> must pay to exercise <Options> under this plan. 
         For <Incentive Stock Options> the <Administrator> decides when granted. 
         The <Administrator> may allow payment:
-            \\ in cash; or
-            \\ by check; or
-            \\ if the law allows, by promissory note with terms the <Administrator> decides; or
-            \\ by canceling debt; or
-            \\ by surrendering shares, for <Fair Market Value> at the time; or
-            \\ <Cashless Exercise>; or
-            \\ in any other legal way; or
-            \\ any combination
+            \\ in cash
+            \\ by check
+            \\ if the law allows, by promissory note with terms the <Administrator> decides
+            \\ by canceling debt
+            \\ by surrendering shares, for <Fair Market Value> at the time
+            \\ <Cashless Exercise>
+            \\ in any other legal way
+            \\ by any combination
         The <Administrator> shall consider the benefit to the <Company> of different kinds of payment. 
         The <Administrator> may refuse to accept any kind of payment at time of exercise.
 
@@ -241,6 +241,50 @@ This is a plan for ""Company"", [Company Name], to give ""Awards"" of <Company> 
             \ Option Buyout \
             The <Administrator> may offer to buy out <Options> for cash or shares of common stock. 
             The <Administrator> will decide and give its terms for a buyout to the <Optionee> when it makes its offer.
+
+    \ Restricted Stock \
+
+        \ Grant Process \
+        The <Company> will give those awarded <Restricted Stock> the terms of their offers in writing. 
+        The terms will include at least:
+            \\ the number of shares they can buy
+            \\ the price, if any
+            \\ the deadline for deciding whether to buy
+        The <Administrator> decides the price, and may also grant <Restricted Stock> free of charge within the law. 
+        A <Participant> accepts an offer to buy <Restricted Stock> by entering a form <Restricted Stock Purchase Agreement> approved by the <Administrator>.
+
+        \ Payment for Restricted Stock \
+        The <Administrator> decides how <Participants> must pay for <Restricted Stock>. 
+        The <Administrator> may allow payment:
+            \\ in cash
+            \\ by check
+            \\ if the law allows, by promissory note with terms the <Administrator> decides
+            \\ by canceling debt
+            \\ by surrendering shares, for <Fair Market Value> at the time
+            \\ <Cashless Exercise>
+            \\ in any other legal way
+            \\ by any combination
+
+        \ Buyback \
+
+            \ Default Buyback Right\
+            Unless the <Administrator> decides differently, every <Restricted Stock Purchase Agreement> will give the <Company> the right to buy back <Restricted Stock> at the same price the purchaser originally paid, whenever the buyer's <Service to the Company> ends for any reason. 
+            The <Company> can pay for buybacks by canceling purchase debt to the <Company>.
+            The <Administrator> will decide how the <Company>'s buyback right lapses.
+
+            \ Buyback and Leave \
+            By default, lapsing of any <Company> buyback right pauses during unpaid leave and continues during paid leave. 
+            The <Administrator> may decide to pause or continue lapsing of any <Company> buyback right in a different way at any time, as the law allows. 
+            Lapsing of any <Company> buyback right pauses during unpaid military leave. 
+            But when a <Participant> returns from military leave with rights under the Uniform Services Employment and Reemployment Rights Act, they receive the same lapsing credit for <Restricted Stock> they would have received if they had continued providing service during military leave as they had before military leave.
+
+        \ Other Terms \
+        The <Administrator> may add any other terms, within the limits of this plan, to any <Restricted Stock Purchase Agreement>. 
+        The <Administrator> may offer different <Restricted Stock Purchase Agreement> terms to different <Participants>.
+
+        \ Stockholder Rights \
+        A <Participant> purchasing <Restricted Stock> does not have the right to vote, the right to received dividends, or any other rights as owner of the stock they purchase until the <Company> issues the shares and records their ownership in its corporate books or with its transfer agent. 
+        Subject to {Adjustments}, the <Company> will not adjust dividend or other rights based on record dates before <Restricted Stock> is issued and recorded.
 
     \ No Employment Rights \
     Neither this plan nor any <Award> under it give anyone any right to continued employment or contract work.
