@@ -70,7 +70,7 @@ This is a plan for ""Company"", [Company Name], to give ""Awards"" of <Company> 
             \\
             The <Board> and a <Board> committee administer this plan.
 
-        A <Company> officer or group of <Company> officers may make <Awards> under guidelines set by the <Board>, if the law allows. 
+        A <Company> officer or group of <Company> officers may make <Awards> within limits set by the <Board>, if the law allows. 
         But the <Board> may not allow <Company> officers to make <Awards> to those covered by section 16 of the <Exchange Act> (Directors, Officers, and Principal Stockholders).
 
         \ Changing Who Administers the Plan \
@@ -112,18 +112,145 @@ This is a plan for ""Company"", [Company Name], to give ""Awards"" of <Company> 
             The <Administrator> may decide what the terms of this plan, documents under this plan, and agreements and other documents for <Awards>, mean. 
             The <Administrator>'s decisions on meaning apply to all <Participants>.
 
-        \ When Participants Must Agree to Changes \
-        The <Administrator> may not make changes to <Awards> and related agreements with significant negative effects on <Participants>, unless they agree.
-
         \ Indemnification \
         If anyone involved in administering this plan, as a member of the <Board>, a <Board> committee, or a <Company> officer, becomes involved in legal action related to this plan or an <Award> under it, the <Company> shall pay all the losses, costs, liability, judgments, and reasonable expenses they incur as a result. 
         However, the <Company> shall not pay any settlement amounts it did not approve in advance, nor any amounts at all for anyone as a result of legal action in which a court finds they failed to act in good faith. 
         To receive payment, those covered must give the <Company> a chance to take over defending the legal action, at <Company> expense, before they start defending it themselves. 
         This indemnification right does not replace or limit any other rights to indemnification those covered may have.
 
-#   \ Awards \
+    \ When Participants Must Agree to Changes \
+    The <Administrator> may not make changes to <Awards> and related agreements with significant negative effects on <Participants>, unless they agree.
 
-#       \ Options \
+    \ Who Can Get Which Kinds of Awards? \
+    The <Administrator> may give <Nonstatutory Stock Options> and <Restricted Stock> to <Consultants>, <Employees> of the <Company>, and <Employees> of <Company Affiliates>. 
+    The <Administrator> may only give <Incentive Stock Options> to <Employees> of the <Company>.
+
+    \ Options \
+
+        \ Kinds of Options \
+        Each <Option> under this plan will be either an <Incentive Stock Option> or a <Nonstatutory Stock Option>.
+
+        \ $100,000 Limit \
+        Section 422(d) of the <Tax Code> imposes a limit, the ""$100,000 Limit"", on the number of a <Participant>'s <Options> that can be treated as <Incentive Stock Options> in a calendar year. 
+        <Incentive Stock Options> that exceed that limit will be treated as <Nonstatutory Stock Options>.
+
+        \ Option Terms \
+        An <Option Agreement> will set the term of each <Option> under this plan, with two limits:
+
+            \ 10-Year Limit \
+            The longest term for any <Option> is ten years from the day granted.
+
+            \ 5-Year Limit for Ten Percent Holders \
+            The longest term for <Option> granted someone who is a <Ten Percent Holder> at the time is five years from the day granted.
+
+        If the term in an <Option Agreement> goes over its limit, the term of the <Option> is the limit, not what the <Option Agreement> says.
+
+        \ Exercise Prices \
+
+            \ Incentive Stock Option Exercise Prices \
+            Subject to {Special Exercise Prices}, an <Option Agreement> will set the exercise price of each <Incentive Stock Option> under this plan, with three limits:
+
+                # IRC 422(b)(4)
+                \ 100% Fair Market Value Minimum \
+                To satisfy section 422(b)(4) of the <Tax Code>, the lowest exercise price for an <Incentive Stock Option> granted an <Employee> who is not a <Ten Percent Holder> at the time is 100% of <Fair Market Value> on grant.
+
+                # IRC 422(c)(5)
+                \ 110% Fair Market Value Minimum for Ten Percent Holders \
+                To follow section 422(c)(5) of the <Tax Code>, the lowest exercise price for an <Incentive Stock Option> granted an <Employee> who is a <Ten Percent Holder> at the time is 110% of <Fair Market Value> on grant.
+
+            If the exercise price in an <Option Agreement> goes over its limit, the exercise price of the <Option> is the limit, not what the <Option Agreement> says.
+
+            \ Nonstatutory Stock Option Exercise Prices \
+            Subject to {Adjustments} and {Special Exercise Prices}, the <Administrator> will decide the exercise price of each <Nonstatutory Stock Option>. 
+            If the exercise price of a <Nonstatutory Stock Option> is less than <Fair Market Value> on grant, the terms of the <Option> will abide by other laws, including section 409A of the <Tax Code> (Inclusion in gross income of deferred compensation...).
+
+            \ Special Exercise Prices \
+            The <Administrator> can set lower exercise prices pursuant to a merger or other corporate transaction.
+
+        \ Option Payments \
+        The <Administrator> determines how <Participants> must pay to exercise <Options> under this plan. 
+        For <Incentive Stock Options> the <Administrator> decides when granted. 
+        The <Administrator> may allow payment:
+            \\ in cash; or
+            \\ by check; or
+            \\ if the law allows, by promissory note with terms the <Administrator> decides; or
+            \\ by canceling debt; or
+            \\ by surrendering shares, for <Fair Market Value> at the time; or
+            \\ <Cashless Exercise>; or
+            \\ in any other legal way; or
+            \\ any combination
+        The <Administrator> shall consider the benefit to the <Company> of different kinds of payment. 
+        The <Administrator> may refuse to accept any kind of payment at time of exercise.
+
+        \ Exercise \
+
+            \ Exercise Terms \
+            The <Administrator> shall decide how <Options> can be exercised, within the limits set by this plan, and state them in <Option Agreements>.
+
+            \ Leaves of Absence \
+            The <Administrator> may decide that vesting of an <Option> should pause during a leave of absence. 
+            If the <Administrator> does not decide to pause vesting, vesting continues during paid leave to the fullest legal extent.
+
+            \ Military Leave \
+            Vesting of an <Option> pauses during unpaid military leave. 
+            But when a <Participant> returns from military leave with rights under the Uniform Services Employment and Reemployment Rights Act, they receive the same vesting credit under <Options> they would have received if they had continued providing service during military leave as they had before military leave.
+
+            \ Minimum Exercise \
+            <Options> cannot be exercised for fractions of a share. 
+            In addition, the <Administrator> may require an <Optionee> exercise for a minimum number of shares under an <Option>, so long as the minimum does not stop the <Optionee> exercising for all the shares they can.
+
+            \ Exercise Process \
+            An <Option> is exercised once both of the following happen:
+
+                \\ The <Company> receives written notice of exercise that meets the requirements of the <Option Agreement>.
+
+                \\ The <Company> receives full payment for the exercise.
+
+                \\ The <Company> has paid, or arranged to pay, any tax, withholding, deductions, and other tax payments under {Tax}.
+
+            Exercise reduces the number of shares under the <Option> and in the <Pool>.
+
+            \ Stockholder Rights \
+            An <Optionee> exercising an <Option> does not have the right to vote, the right to received dividends, or any other rights as owner of the stock they purchase until the <Company> issues the shares and records their ownership in its corporate books or with its transfer agent. 
+            Subject to {Adjustments}, the <Company> will not adjust dividend or other rights based on record dates before <Optionee> stock is issued and recorded.
+
+            \ Leaving the Company \
+            The <Administrator> decides whether and how long an <Optionee> can exercise each <Option> after their <Service with the Company> ends, and reflect that decision in the <Option Agreement>. 
+            The <Administrator> may waive or change their decision at any time. 
+            By default, these terms apply:
+
+                \ Deadline to Exercise \
+                If an <Option> is not exercised before its deadline, the <Option> immediately terminates, and all stock under the <Option> returns to the <Pool> under {Returning Shares to the Pool}.
+
+                \ Disability \
+                Per section 422(c)(6) of the <Tax Code>, if an <Optionee>'s <Service to the Company> ends because of their <Disability>, the deadline to exercise an <Option> is the first anniversary of their last day of <Service to the Company>.
+
+                \ Death \
+                Per section 422(b)(5) of the <Tax Code>, if an <Optionee> dies, either during their <Service to the Company> or within three months of their last day of <Service to the Company>, the deadline to exercise their <Option> is the first anniversary of their last day of <Service to the Company>.
+
+                \ Termination for Cause \
+                If the <Company> ends an <Optionee>'s <Service to the Company> for <Cause>, all their <Options> terminate immediately as soon as they learn their <Service to the Company> has ended. 
+                If the <Company> suspends an <Optionee>'s <Service to the Company> to investigate whether to end their <Service to the Company> for <Cause>, all rights under all their <Options> suspend until the investigation ends.
+                # TODO Review
+                These rules do not limit any <Company> right to purchase unvested shares under any <Option Agreement>.
+
+                # TODO Change the default?
+                \ Leaving the Company Generally \
+                Otherwise, the deadline to exercise an <Option> is three months from the <Optionee>'s last day of <Service to the Company>.
+
+            \ Option Buyout \
+            The <Administrator> may offer to buy out <Options> for cash or shares of common stock. 
+            The <Administrator> will decide and give its terms for a buyout to the <Optionee> when it makes its offer.
+
+    \ No Employment Rights \
+    Neither this plan nor any <Award> under it give anyone any right to continued employment or contract work.
+
+    \ Term of the Plan \
+    This plan starts when the <Board> adopts it and ends 10 years later. 
+    Subject to {When Participants Must Agree to Changes}, the <Board> may terminate this plan earlier.
+
+    \ Changes to the Plan \
+    Subject to {When Participants Must Agree to Changes} and any legal requirements, the <Board> may change this plan over time.
 
 #       \ Restricted Stock \
 
