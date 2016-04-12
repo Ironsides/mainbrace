@@ -56,8 +56,7 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
     \ Administration \
 
         \ Who Administers this Plan? \
-        The <Board> decides who administers this plan. 
-        The group or groups that administer this plan are the ""Administrator"".
+        The <Board> decides who administers this plan, as <Administrator>. 
         The <Board> may:
 
             \\
@@ -490,6 +489,9 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
         ""Affiliate"" (plural, ""Affiliates"") means any non-<Subsidiary> legal entity either:
             \\ controlled by a third party that also controls or the <Company>; or
             \\ that the <Company> and its <Subsidiaries> controls.
+
+        \\
+        ""Administrator"" the group or groups who administer this plan.
 
         \\
         ""Applicable Laws"" means all the <Legal Rules> that apply in a situation. 
