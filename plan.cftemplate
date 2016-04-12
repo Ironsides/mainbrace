@@ -364,10 +364,10 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
             The <Company> will neither transfer shares under such a transfer on its books, nor treat the attempted recipient the as if they had rights as a stockholder.
 
             \ Approval Process \
-            A <Participant> may request permission for a <Stock Transfer> shares by writing the <Secretary> with all of the following information: 
+            A <Participant> may request permission for a <Stock Transfer> by writing the <Secretary> with all of the following information: 
                 \\ their name
-                \\ the name of the proposed recipient of the shares
-                \\ the number of shares
+                \\ the name of the proposed recipient of <Stock>
+                \\ the number of shares of <Stock>
                 \\ the purchase price
             The <Company> may require additional information of the <Participant>. 
             The <Participant>'s request will also fall under any right of first refusal, transfer provision, or other term of their <Award Packet>.
