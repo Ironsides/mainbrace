@@ -614,7 +614,7 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
         \\
         ""Participant"" means any holder of an <Awards> or <Stock> issued under an <Award>.
 
-        \\ ""Reorganization"" means all of:
+        \\ ""Reorganization"" means any of these:
 
             \\ the number of issued shares changes without the <Company> receiving any legal "consideration"
 
@@ -657,34 +657,34 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
         \\
         ""Stock"" means a shares of <Common Stock>, as adjusted under {Adjustments}.
 
-        \\ ""Stock Change"" means all of:
+        \\ ""Stock Change"" means all of these:
 
-            \\ stock split
+            \\ a stock split
 
-            \\ reverse stock split
+            \\ a reverse stock split
 
-            \\ stock dividend
+            \\ a stock dividend
 
-            \\ combination
+            \\ a combination
 
-            \\ consolidation
+            \\ a consolidation
 
-            \\ reclassification of shares
+            \\ a reclassification of shares
 
-            \\ subdivision of shares
+            \\ a subdivision of shares
 
         \\
         ""Stock Exchange"" means any stock exchange or consolidated stock price reporting system quoting prices for <Common Stock>.
 
-        \\ ""Stock-Related Attributes"" means all of:
+        \\ ""Stock-Related Attributes"" means all of these:
 
-            \\ number and kind of securities in the <Pool>
+            \\ the number and kind of securities in the <Pool>
 
-            \\ number and kind of securities under any <Award>
+            \\ the number and kind of securities under any <Award>
 
-            \\ exercise price per share under any <Option>
+            \\ the exercise price per share under any <Option>
 
-            \\ price per share under any <Company> buyback right under any <Award>
+            \\ the price per share under any <Company> buyback right under any <Award>
 
         \\
         ""Subsidiary"" (plural, ""Subsidiaries"") means any corporation <Controlled> by the <Company>, any <Subsidiary> of a <Subsidiary>, and so on.
