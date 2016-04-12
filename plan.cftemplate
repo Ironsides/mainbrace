@@ -68,7 +68,7 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
             make both the <Board> and a <Committee> <Administrator>, and decide their relative responsibilities
 
         \ Officers \
-        If <Applicable Laws> permit, the <Board> may allow a <Company> officer or group of <Company> officers may make <Awards> within limits set by the <Board>.
+        If <Applicable Laws> permit, the <Board> may allow a <Company> officer or group of <Company> officers may make <Awards> within limits set by the <Board>. 
         The <Board> may not allow <Company> officers to make <Awards> to those covered by section 16 of the <Exchange Act> (Directors, Officers, and Principal Stockholders).
 
         \ Changing Who Administers the Plan \
@@ -236,7 +236,7 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
 
                 \ Termination for Cause \
                 If the <Company> ends an <Participant>'s <Service to the Company> for <Cause>, all their <Options> terminate immediately as soon as they learn their <Service to the Company> has ended. 
-                If the <Company> suspends an <Participant>'s <Service to the Company> to investigate whether to end their <Service to the Company> for <Cause>, all rights under all their <Options> suspend until the investigation ends.
+                If the <Company> suspends an <Participant>'s <Service to the Company> to investigate whether to end their <Service to the Company> for <Cause>, all rights under all their <Options> suspend until the investigation ends. 
                 # TODO Review
                 These rules do not limit any <Company> right to purchase unvested shares under any <Option Packet>.
 
@@ -275,7 +275,7 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
 
             \ Default Buyback Right\
             Unless the <Administrator> decides differently, every <Restricted Stock Packet> will give the <Company> the right to buy back <Restricted Stock> at the same price the purchaser originally paid, whenever the buyer's <Service to the Company> ends for any reason. 
-            The <Company> can pay for buybacks by canceling purchase debt to the <Company>.
+            The <Company> can pay for buybacks by canceling purchase debt to the <Company>. 
             The <Administrator> will decide how the <Company>'s buyback right lapses.
 
             \ Buyback and Leave \
@@ -375,12 +375,12 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
         \ Transfer Limits on Stock \
 
             \ No Transferring Stock \
-            <Stock Transfer> is not allowed, unless the <Company>'s specific permission, in writing and in advance.
+            <Stock Transfer> is not allowed, unless the <Company>'s specific permission, in writing and in advance. 
             The <Company> may refuse permission for a <Stock Transfer> for any reason. 
 
             \\
-            ""Stock Transfer"" means any transfer, read broadly, of any interest in <Stock> acquired under an <Award>.
-            Selling, gifting, placing in trust, pledging for a debt, or allowing a lien to apply to <Stock> are each an example of a <Stock Transfer>.
+            ""Stock Transfer"" means any transfer, read broadly, of any interest in <Stock> acquired under an <Award>. 
+            Selling, gifting, placing in trust, pledging for a debt, or allowing a lien to apply to <Stock> are each an example of a <Stock Transfer>. 
             So are transactions, like short sales, offsetting derivatives, futures, forward contracts, that significantly change the financial risk and benefits of owning <Stock>. 
             Giving another the right to vote or take other action as a stockholder, perhaps by proxy, is also a <Stock Transfer>. 
             An agreement to do a <Stock Transfer> is itself a <Stock Transfer>.
@@ -464,8 +464,8 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
         ""Cause"" means any of these:
 
             \\
-            The <Participant> broke a significant written agreement with the <Company>.
-            The <Company> wrote the <Participant> about it.
+            The <Participant> broke a significant written agreement with the <Company>. 
+            The <Company> wrote the <Participant> about it. 
             The <Participant> failed to fix the problem in thirty calendar days.
 
             \\
@@ -473,12 +473,12 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
 
             \\
             The <Participant> neglected or persistently performed their duties in an unsatisfactory way. 
-            The <Company> wrote the <Participant> about it.
+            The <Company> wrote the <Participant> about it. 
             The <Participant> failed to fix the problem in thirty calendar days.
 
             \\
             The <Participant> repeatedly failed to follow reasonable, legal instructions from the <Board> or the <CEO>. 
-            The <Company> wrote the <Participant> about it.
+            The <Company> wrote the <Participant> about it. 
             The <Participant> failed to fix the problem in thirty calendar days.
 
             \\
@@ -688,7 +688,7 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
             \\ the price per share under any <Company> buyback right under any <Award>
 
         \\
-        ""Subsidiary"" (plural, ""Subsidiaries"") means any corporation <Controlled> by the <Company>, any <Subsidiary> of a <Subsidiary>, and so on.
+        ""Subsidiary"" (plural, ""Subsidiaries"") means any corporation <Controlled> by the <Company>, any <Subsidiary> of a <Subsidiary>, and so on. 
         A corporation can become a <Subsidiary> after this plan is adopted or amended if it comes to meet this definition.
 
         \\
