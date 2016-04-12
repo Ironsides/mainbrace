@@ -221,7 +221,7 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to grant
 
             \ Minimum Exercise \
             <Options> may not be exercised for fractions of a share. 
-            The <Administrator> may require a <Participant> exercise for a minimum number of shares under an <Option>, so long as the minimum does not stop the <Participant> exercising for all the shares they can.
+            The <Administrator> may require a <Participant> exercise for a minimum number of shares under an <Option>, so long as the minimum does not stop the <Participant> exercising for all the vested shares of <Stock> under the <Option>.
 
             \ Exercise Process \
             An <Option> is considered exercised once all of these happen:
