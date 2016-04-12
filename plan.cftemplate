@@ -183,10 +183,10 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to grant
             Subject to {Special Exercise Prices}, an <Option Packet> will set the exercise price of each <Incentive Stock Option>, within these limits:
 
                 \\
-                Per section 422(b)(4) of the <Tax Code>, the lowest exercise price for an <Incentive Stock Option> granted an <Employee> who is not a <Ten Percent Holder> at the time is 100% of <Fair Market Value> on grant.
+                Per section 422(c)(5) of the <Tax Code>, the lowest exercise price for an <Incentive Stock Option> granted an <Employee> who is a <Ten Percent Holder> at the time is 110% of <Fair Market Value> on grant.
 
                 \\
-                Per section 422(c)(5) of the <Tax Code>, the lowest exercise price for an <Incentive Stock Option> granted an <Employee> who is a <Ten Percent Holder> at the time is 110% of <Fair Market Value> on grant.
+                Otherwise, per section 422(b)(4) of the <Tax Code>, the lowest exercise price for an <Incentive Stock Option> is <Fair Market Value> on grant.
 
             If the exercise price in an <Option Packet> goes over its limit, the exercise price of the <Option> is the limit, no matter what the <Option Packet> says.
 
