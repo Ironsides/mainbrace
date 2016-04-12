@@ -55,7 +55,7 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
     \ Administration \
 
         \ Who Administers this Plan? \
-        The <Board> decides who administers this plan as <Administrator>. 
+        The <Board> decides who administers this plan ,as <Administrator>. 
         The <Board> may:
 
             \\
@@ -173,15 +173,7 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
         \ Payment to Exercise Options \
         The <Administrator> decides how each <Participant> must pay to exercise <Options> under this plan. 
         For <Incentive Stock Options> the <Administrator> decides when granted. 
-        The <Administrator> may allow payment:
-            \\ in cash
-            \\ by check
-            \\ if the law allows, by promissory note with terms the <Administrator> decides
-            \\ by canceling debt
-            \\ by surrendering shares, for <Fair Market Value> at the time
-            \\ under a <Cashless Exercise Program>
-            \\ in any other legal way
-            \\ by any combination
+        The <Administrator> may allow payment by any <Standard Payment Method>. 
         The <Administrator> will consider the benefit to the <Company> of different kinds of payment. 
         The <Administrator> may refuse to accept any kind of payment at time of exercise.
 
@@ -261,15 +253,7 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
 
         \ Payment for Restricted Stock \
         The <Administrator> decides how each <Participant> must pay for <Restricted Stock>. 
-        The <Administrator> may allow payment:
-            \\ in cash
-            \\ by check
-            \\ if the law allows, by promissory note with terms the <Administrator> decides
-            \\ by canceling debt
-            \\ by surrendering shares the <Participant> already owns, for their <Fair Market Value> at the time
-            \\ under a <Cashless Exercise Program>
-            \\ in any other legal way
-            \\ by any combination
+        The <Administrator> may allow payment by any <Standard Payment Method>. 
 
         \ Buyback \
 
@@ -651,6 +635,17 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
 
         \\
         ""Securities Act"" means the Securities Act of 1933.
+
+        \\
+        ""Standard Payment Method"" means any of these payments methods:
+            \\ in cash
+            \\ by check
+            \\ if <Applicable Laws> allow, by promissory note with terms the <Administrator> decides
+            \\ by canceling debt
+            \\ by surrendering shares, for their <Fair Market Value>
+            \\ under a <Cashless Exercise Program>
+            \\ in any other legal way
+            \\ by any combination of these methods
 
         \\
         ""Starting Size of the Pool"" means the number of shares of <Stock> in the <Pool> when this plan is adopted.
