@@ -26,28 +26,28 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
 
     \ Stock Pool \
 
-        \ Shares in the Pool \
-        Under this plan, the <Administrator> may issue up to [Pool Shares] shares of the <Company>'s common stock under <Awards>. 
+        \ Stock in the Pool \
+        Under this plan, the <Administrator> may issue up to [Pool Stock] shares of <Stock> under <Awards>. 
         This number is called the ""Pool"", and its starting size is called the ""Starting Size of the Pool"". 
         The <Administrator> may issue the whole <Pool> under <Incentive Stock Options> if it chooses.
 
         # Consider "recycle"
-        \ Returning Shares to the Pool \
-        Some stock under <Awards> can return to the <Pool>, to be recycled under new <Awards>.
+        \ Returning Stock to the Pool \
+        Some <Stock> under <Awards> can return to the <Pool>, to be recycled under new <Awards>.
 
-            \\ When an <Award> expires before all the <Company> issues all the stock under it, the stock the <Company> has not issued returns to the <Pool>.
+            \\ When an <Award> expires before all the <Company> issues all the <Stock> under it, the <Stock> the <Company> has not issued returns to the <Pool>.
 
-            \\ When an <Award> can no longer be exercised, any stock under the <Award> that the <Company> has not issued returns to the <Pool>.
+            \\ When an <Award> can no longer be exercised, any <Stock> under the <Award> that the <Company> has not issued returns to the <Pool>.
 
-            \\ When an <Option> is traded in under an <Option Exchange Program>, the stock under the <Option> returns to the <Pool>.
+            \\ When an <Option> is traded in under an <Option Exchange Program>, the <Stock> under the <Option> returns to the <Pool>.
 
-            \\ When the <Company> holds back shares under an <Award> to cover part of the <Participant>'s purchase price or withholding tax, the stock the <Company> holds back returns to the <Pool>.
+            \\ When the <Company> holds back shares under an <Award> to cover part of the <Participant>'s purchase price or withholding tax, the <Stock> the <Company> holds back returns to the <Pool>.
 
             \\ When <Restricted Stock> is forfeited to the <Company>, those shares return to the <Pool>.
 
             \\ When the <Company> uses a right to buy back <Restricted Stock>, those shares return to the <Pool>.
 
-        Stock stops returning to the <Pool> when this plan terminates.
+        <Stock> stops returning to the <Pool> when this plan terminates.
 
         \ Adjusting the Size of the Pool \
         The number of shares in the <Pool> can be adjusted under {Adjustments}. 
@@ -113,7 +113,7 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
 
         \ Determining Fair Market Value \
         The <Administrator> alone will determine <Fair Market Value> as it thinks best. 
-        When possible, the <Administrator> will determine <Fair Market Value> based on the marketing closing price of the stock reported in The Wall Street Journal. 
+        When possible, the <Administrator> will determine <Fair Market Value> based on the marketing closing price of the <Stock> reported in The Wall Street Journal. 
         The <Administrator>'s determination of <Fair Market Value> will apply, consistently, to every <Participant>.
 
         \ Indemnification \
@@ -218,8 +218,8 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
             Exercise reduces the number of shares under the <Option> and in the <Pool>.
 
             \ Stockholder Rights from Options \
-            An <Participant> exercising an <Option> does not have the right to vote, the right to received dividends, or any other rights as owner of the stock they purchase until the <Company> issues the shares and records their ownership in its corporate books or with its transfer agent. 
-            Subject to {Adjustments}, the <Company> will not adjust dividend or other rights based on record dates before <Participant> stock is issued and recorded.
+            An <Participant> exercising an <Option> does not have the right to vote, the right to received dividends, or any other rights as owner of the <Stock> they purchase until the <Company> issues the shares and records their ownership in its corporate books or with its transfer agent. 
+            Subject to {Adjustments}, the <Company> will not adjust dividend or other rights based on record dates before <Participant> <Stock> is issued and recorded.
 
             \ Leaving the Company \
             The <Administrator> decides whether and how long an <Participant> can exercise each <Option> after their <Service to the Company> ends, and reflect that decision in the <Option Packet>. 
@@ -227,7 +227,7 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
             By default, these terms apply:
 
                 \ Deadline to Exercise \
-                If an <Option> is not exercised before its deadline, the <Option> immediately terminates, and all stock under the <Option> returns to the <Pool> under {Returning Shares to the Pool}.
+                If an <Option> is not exercised before its deadline, the <Option> immediately terminates, and all <Stock> under the <Option> returns to the <Pool> under {Returning Stock to the Pool}.
 
                 \ Disability \
                 Per section 422(c)(6) of the <Tax Code>, if an <Participant>'s <Service to the Company> ends because of their <Disability>, the deadline to exercise an <Option> is the first anniversary of their last day of <Service to the Company>.
@@ -246,7 +246,7 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
                 Otherwise, the deadline to exercise an <Option> is three months from the <Participant>'s last day of <Service to the Company>.
 
             \ Option Buyout \
-            The <Administrator> may offer to buy out <Options> for cash or shares of common stock. 
+            The <Administrator> may offer to buy out <Options> for cash or shares of <Stock>. 
             The <Administrator> will decide and give its terms for a buyout to the <Participant> when it makes its offer.
 
     \ Restricted Stock \
@@ -290,14 +290,14 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
         The <Administrator> need not offer each <Participant> the same terms.
 
         \ Stockholder Rights from Restricted Stock \
-        A <Participant> purchasing <Restricted Stock> does not have the right to vote, the right to received dividends, or any other rights as owner of the stock they purchase until the <Company> issues the shares and records their ownership in its corporate books or with its transfer agent. 
+        A <Participant> purchasing <Restricted Stock> does not have the right to vote, the right to received dividends, or any other rights as owner of the <Stock> they purchase until the <Company> issues the shares and records their ownership in its corporate books or with its transfer agent. 
         Subject to {Adjustments}, the <Company> will not adjust dividend or other rights based on record dates before <Restricted Stock> is issued and recorded.
 
     \ Tax \
 
         \ Making Arrangements for Tax \
         Receiving an <Award>, exercising an <Award>, accumulate vesting, and lapsing a buyback right are all conditioned on the <Participant> making any arrangements the <Administrator> requires for covering tax obligations under foreign, federal, state, and local tax law. 
-        The <Company> will not issue stock until tax obligations are covered.
+        The <Company> will not issue <Stock> until tax obligations are covered.
 
         \ Cashless Exercise \
         As the law allows, the <Administrator> allow a <Participant> to cover all or part of their tax obligations through a <Cashless Exercise Program> and surrendering shares the <Participant> already owns. 
@@ -314,7 +314,7 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
         The <Administrator>'s changes are final.
 
         \ No Other Adjustments \
-        Otherwise, the fact that the <Company> issues stock or securities convertible to stock will not affects or prompt any adjustment to any <Stock-Related Attributes> under any <Award>.
+        Otherwise, the fact that the <Company> issues <Stock> or securities convertible to <Stock> will not affects or prompt any adjustment to any <Stock-Related Attributes> under any <Award>.
 
         \ Effect on Additional Stock \
         Whenever a <Stock Change> or <Reorganization> leads to an adjustment of a <Participant>'s <Award> or <Award Packet> so that it covers more or different securities, those securities are subject to the same terms.
@@ -357,7 +357,7 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
             A <Participant> may <Transfer an Award> by will or under inheritance law.
 
             \ While the Company Relies on 12h-1(f) \
-            With four exceptions, no one may <Transfer an Award> that is an <Option>, or any stock under any <Option>, while the <Company> is relying on the securities law exemption under <Rule 12h-1(f)>. 
+            With four exceptions, no one may <Transfer an Award> that is an <Option>, or any <Stock> under any <Option>, while the <Company> is relying on the securities law exemption under <Rule 12h-1(f)>. 
             The <Board> alone decides when the <Company> is relying on that exemption. 
             The exceptions are:
                 \\ transfer to <Family Members> by gift or under domestic relations orders
@@ -380,15 +380,15 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
             The <Company> may refuse permission for a <Stock Transfer> for any reason. 
 
             \\
-            ""Stock Transfer"" means any transfer, read broadly, of any interest in stock acquired under an <Award>.
-            Selling, gifting, placing in trust, pledging for a debt, or allowing a lien to apply to stock are each an example of a <Stock Transfer>.
-            So are transactions, like short sales, offsetting derivatives, futures, forward contracts, that significantly change the financial risk and benefits of owning stock. 
+            ""Stock Transfer"" means any transfer, read broadly, of any interest in <Stock> acquired under an <Award>.
+            Selling, gifting, placing in trust, pledging for a debt, or allowing a lien to apply to <Stock> are each an example of a <Stock Transfer>.
+            So are transactions, like short sales, offsetting derivatives, futures, forward contracts, that significantly change the financial risk and benefits of owning <Stock>. 
             Giving another the right to vote or take other action as a stockholder, perhaps by proxy, is also a <Stock Transfer>. 
             An agreement to do a <Stock Transfer> is itself a <Stock Transfer>.
 
             \ Attempted Transfers \
             Any attempted <Stock Transfer> in violation of this plan has no legal effect. 
-            The <Company> will neither transfer shares under such a transfer on its books, nor treat the attempted recipient the as if they had rights as a shareholder.
+            The <Company> will neither transfer shares under such a transfer on its books, nor treat the attempted recipient the as if they had rights as a stockholder.
 
             \ Approval Process \
             A <Participant> may request permission for a <Stock Transfer> shares by writing the <Secretary> with all of the following information: 
@@ -413,12 +413,12 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
     \ Changes to the Plan \
     Subject to {When Participants Must Agree to Changes} and any legal requirements, the <Board> may change this plan over time.
 
-    \ Issuing Shares \
-    Despite any term of this plan or any <Award Packet>, the <Company> will not issue any stock under this plan unless the <Company>, with its lawyers, decides that doing so would be legal. 
+    \ Issuing Stock \
+    Despite any term of this plan or any <Award Packet>, the <Company> will not issue any <Stock> under this plan unless the <Company>, with its lawyers, decides that doing so would be legal. 
     The <Company> will not be liable to anyone for delaying or refusing to issue shares in a way it believes would break the law. 
     If the <Company>'s lawyers request, the <Company> may requires a <Participant> to make representations and warranties at the time they exercise an <Option> or buy <Restricted Stock> to comply with the law and requirements for securities laws exemptions. 
     # TODO Necessary to restate
-    Stock received by exercising an <Option> or buying <Restricted Stock>, before the <Company>'s commons stock becomes a <Listed Security>, is subject to <Company> rights of first refusal per the <Award Packet>.
+    <Stock> received by exercising an <Option> or buying <Restricted Stock>, before the <Company>'s <Stock> becomes a <Listed Security>, is subject to <Company> rights of first refusal per the <Award Packet>.
 
     \ Beneficiaries \
     With the <Company>'s prior written permission, a <Participant> may designate beneficiaries for an <Award> by filing a <Company>-approved form. 
@@ -522,9 +522,6 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
         ""Committee"" means at least one committee or subcommittee of the <Board>, with at least the minimum number of <Director> members required by <Applicable Laws>, that the <Board> appointed to administer this plan under {Who Administers this Plan?}.
 
         \\
-        ""Common Stock"" means the <Company>'s common stock.
-
-        \\
         ""Consultant"" (plural, ""Consultants"") means any person or legal entity that provides or has provided services for the <Company> or any <Parent>, <Subsidiary>, or <Affiliate>, for compensation. 
         An advisor is not a <Consultant>. 
         Neither is any <Employee>.
@@ -567,7 +564,7 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
         ""Exchange Act"" means the Securities Exchange Act of 1934.
 
         \\
-        ""Fair Market Value"" means, as of any date, the per share fair market value of the <Common Stock> as determined under {Determining Fair Market Value}. 
+        ""Fair Market Value"" means, as of any date, the per share fair market value of <Stock> as determined under {Determining Fair Market Value}. 
 
         \\
         ""Family Members"" means all of:
@@ -592,7 +589,7 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
         ""Nonstatutory Stock Option"" (plural, ""Nonstatutory Stock Options"") means an <Option> that is not an <Incentive Stock Option>.
 
         \\
-        ""Option"" (plural, ""Options"") means a stock option granted under this plan.
+        ""Option"" (plural, ""Options"") means an option to purchase <Stock> granted under this plan.
 
         \\
         ""Option Packet"" means a set of <Administrator>-approved form documents for the terms of an <Option>.
@@ -654,7 +651,7 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
         ""Securities Act"" means the Securities Act of 1933.
 
         \\
-        ""Stock"" means a shares of <Common Stock>, as adjusted under {Adjustments}.
+        ""Stock"" means a shares of the <Company>'s common stock, as adjusted under {Adjustments}.
 
         \\ ""Stock Change"" means all of these:
 
@@ -673,7 +670,7 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
             \\ a subdivision of shares
 
         \\
-        ""Stock Exchange"" means any stock exchange or consolidated stock price reporting system quoting prices for <Common Stock>.
+        ""Stock Exchange"" means any stock exchange or consolidated stock price reporting system quoting prices for <Stock>.
 
         \\ ""Stock-Related Attributes"" means all of these:
 
