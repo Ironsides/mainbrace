@@ -1,4 +1,4 @@
-This is a plan for ""Company"", [Company Name], to give ""Awards"" of <Company> stock and options to buy <Company> stock.
+This is a plan for ""Company"", [Company Name], a Delaware corporation, to give ""Awards"" of <Company> stock and options to buy <Company> stock.
 
     \ Purposes \ This plan has three main purposes:
 
@@ -21,7 +21,8 @@ This is a plan for ""Company"", [Company Name], to give ""Awards"" of <Company> 
 
     \ Contents \
     This plan sets out rules for its administration and for <Awards> generally. 
-    It also gives some words and phrases specific definitions that apply throughout this plan and <Awards> documents.
+    It also gives some words and phrases specific definitions that apply throughout this plan and <Awards> documents. 
+    Several important definitions, like <Change of Control>, are in {Definitions}.
 
     \ Stock Pool \
 
@@ -40,35 +41,37 @@ This is a plan for ""Company"", [Company Name], to give ""Awards"" of <Company> 
 
             \\ When an <Option> is traded in under an <Option Exchange Program>, the stock under the <Option> returns to the <Pool>.
 
-            \\ When the <Company> holds back shares under an <Award> to cover part of the <Recipient>'s purchase price or withholding tax, the stock the <Company> holds back returns to the <Pool>.
+            \\ When the <Company> holds back shares under an <Award> to cover part of the <Participant>'s purchase price or withholding tax, the stock the <Company> holds back returns to the <Pool>.
 
-            \\ When <Restricted Shares> are forfeited to the <Company>, those shares return to the <Pool>.
+            \\ When <Restricted Stock> is forfeited to the <Company>, those shares return to the <Pool>.
 
-            \\ When the <Company> uses a <Repurchase Right> to buy back <Restricted Shares>, those shares return to the <Pool>.
+            \\ When the <Company> uses a right to buy back <Restricted Stock>, those shares return to the <Pool>.
 
         Stock stops returning to the <Pool> when this plan terminates.
 
         \ Adjusting the Size of the Pool \
         The number of shares in the <Pool> can be adjusted under {Adjustments}. 
-        However, the <Administrator> cannot issue more than the <Starting Size of the Pool> under <Incentive Stock Options> unless the <Section of the Tax Code on ISOs> allows the <Administrator> to recycle more shares.
+        However, the <Administrator> cannot issue more than the <Starting Size of the Pool> under <Incentive Stock Options> unless the <Tax Code> allows the <Administrator> to recycle more shares.
 
     \ Administration \
 
         \ Who Administers this Plan? \
-        The board of directors of the <Company>, the ""Board"", decides who administers this plan. 
-        The <Board> may decide that:
+        The <Board> decides who administers this plan. 
+        The group or groups that administer this plan are the ""Administrator"".
+        The <Board> may:
 
             \\
-            The <Board> administers this plan.
+            make the <Board> itself <Administrator>
 
             \\
-            A <Board> committee administers this plan.
+            make a <Committee> <Administrator>
 
             \\
-            The <Board> and a <Board> committee administer this plan.
+            make both the <Board> and a <Committee> <Administrator>, and decide their relative responsibilities
 
-        A <Company> officer or group of <Company> officers may make <Awards> within limits set by the <Board>, if the law allows. 
-        But the <Board> may not allow <Company> officers to make <Awards> to those covered by section 16 of the <Exchange Act> (Directors, Officers, and Principal Stockholders).
+        \ Officers \
+        If <Applicable Laws> permit, the <Board> may allow a <Company> officer or group of <Company> officers may make <Awards> within limits set by the <Board>.
+        The <Board> may not allow <Company> officers to make <Awards> to those covered by section 16 of the <Exchange Act> (Directors, Officers, and Principal Stockholders).
 
         \ Changing Who Administers the Plan \
         The <Board> may change who administers this plan over time. 
@@ -94,7 +97,7 @@ This is a plan for ""Company"", [Company Name], to give ""Awards"" of <Company> 
             The <Administrator> determines the terms of <Awards>, within the guidelines of this plan.
 
             \\
-            The <Administrator> may amend agreements about <Optioned Stock> and <Restricted Stock>.
+            The <Administrator> may amend agreements about <Stock> under <Options> and <Restricted Stock>.
 
             \\
             The <Administrator> may decide to buy out options under {Option Buyout}.
@@ -107,12 +110,12 @@ This is a plan for ""Company"", [Company Name], to give ""Awards"" of <Company> 
 
             \\
             The <Administrator> may decide what the terms of this plan, documents under this plan, and agreements and other documents for <Awards>, mean. 
-            The <Administrator>'s decisions on meaning apply to all <Participants>.
+            The <Administrator>'s decisions on meaning apply to every <Participant>.
 
         \ Determining Fair Market Value \
-        The <Administrator> will determine <Fair Market Value> as it thinks best. 
+        The <Administrator> alone will determine <Fair Market Value> as it thinks best. 
         When possible, the <Administrator> will determine <Fair Market Value> based on the marketing closing price of the stock reported in The Wall Street Journal. 
-        The <Administrator>'s determination of <Fair Market Value> will apply, consistently, to all <Participants>.
+        The <Administrator>'s determination of <Fair Market Value> will apply, consistently, to every <Participant>.
 
         \ Indemnification \
         If anyone involved in administering this plan, as a member of the <Board>, a <Board> committee, or a <Company> officer, becomes involved in legal action related to this plan or an <Award> under it, the <Company> shall pay all the losses, costs, liability, judgments, and reasonable expenses they incur as a result. 
@@ -121,10 +124,10 @@ This is a plan for ""Company"", [Company Name], to give ""Awards"" of <Company> 
         This indemnification right does not replace or limit any other rights to indemnification those covered may have.
 
     \ When Participants Must Agree to Changes \
-    The <Administrator> may not make changes to <Awards> and related agreements with significant negative effects on <Participants>, unless they agree.
+    The <Administrator> may not make any change to an <Awards> or <Award Packet> with significant negative effects on the <Participant>, unless they agree.
 
     \ Who Can Get Which Kinds of Awards? \
-    The <Administrator> may give <Nonstatutory Stock Options> and <Restricted Stock> to <Consultants>, <Employees> of the <Company>, and <Employees> of <Company Affiliates>. 
+    The <Administrator> may give <Nonstatutory Stock Options> and <Restricted Stock> to <Consultants>, <Employees> of the <Company>, and <Employees> of <Affiliates>. 
     The <Administrator> may only give <Incentive Stock Options> to <Employees> of the <Company>.
 
     \ Options \
@@ -133,11 +136,11 @@ This is a plan for ""Company"", [Company Name], to give ""Awards"" of <Company> 
         Each <Option> under this plan will be either an <Incentive Stock Option> or a <Nonstatutory Stock Option>.
 
         \ $100,000 Limit \
-        Section 422(d) of the <Tax Code> imposes a limit, the ""$100,000 Limit"", on the number of a <Participant>'s <Options> that can be treated as <Incentive Stock Options> in a calendar year. 
+        Section 422(d) of the <Tax Code> imposes a limit on the number of a <Participant>'s <Options> that can be treated as <Incentive Stock Options> in a calendar year. 
         <Incentive Stock Options> that exceed that limit will be treated as <Nonstatutory Stock Options>.
 
         \ Option Terms \
-        An <Option Agreement> will set the term of each <Option> under this plan, with two limits:
+        An <Option Packet> will set the term of each <Option> under this plan, with two limits:
 
             \ 10-Year Limit \
             The longest term for any <Option> is ten years from the day granted.
@@ -145,12 +148,12 @@ This is a plan for ""Company"", [Company Name], to give ""Awards"" of <Company> 
             \ 5-Year Limit for Ten Percent Holders \
             The longest term for <Option> granted someone who is a <Ten Percent Holder> at the time is five years from the day granted.
 
-        If the term in an <Option Agreement> goes over its limit, the term of the <Option> is the limit, not what the <Option Agreement> says.
+        If the term in an <Option Packet> goes over its limit, the term of the <Option> is the limit, not what the <Option Packet> says.
 
         \ Exercise Prices \
 
             \ Incentive Stock Option Exercise Prices \
-            Subject to {Special Exercise Prices}, an <Option Agreement> will set the exercise price of each <Incentive Stock Option> under this plan, with three limits:
+            Subject to {Special Exercise Prices}, an <Option Packet> will set the exercise price of each <Incentive Stock Option> under this plan, with three limits:
 
                 # IRC 422(b)(4)
                 \ 100% Fair Market Value Minimum \
@@ -160,7 +163,7 @@ This is a plan for ""Company"", [Company Name], to give ""Awards"" of <Company> 
                 \ 110% Fair Market Value Minimum for Ten Percent Holders \
                 To follow section 422(c)(5) of the <Tax Code>, the lowest exercise price for an <Incentive Stock Option> granted an <Employee> who is a <Ten Percent Holder> at the time is 110% of <Fair Market Value> on grant.
 
-            If the exercise price in an <Option Agreement> goes over its limit, the exercise price of the <Option> is the limit, not what the <Option Agreement> says.
+            If the exercise price in an <Option Packet> goes over its limit, the exercise price of the <Option> is the limit, not what the <Option Packet> says.
 
             \ Nonstatutory Stock Option Exercise Prices \
             Subject to {Adjustments} and {Special Exercise Prices}, the <Administrator> will decide the exercise price of each <Nonstatutory Stock Option>. 
@@ -170,7 +173,7 @@ This is a plan for ""Company"", [Company Name], to give ""Awards"" of <Company> 
             The <Administrator> can set lower exercise prices pursuant to a merger or other corporate transaction.
 
         \ Payment to Exercise Options \
-        The <Administrator> decides how <Participants> must pay to exercise <Options> under this plan. 
+        The <Administrator> decides how each <Participant> must pay to exercise <Options> under this plan. 
         For <Incentive Stock Options> the <Administrator> decides when granted. 
         The <Administrator> may allow payment:
             \\ in cash
@@ -178,7 +181,7 @@ This is a plan for ""Company"", [Company Name], to give ""Awards"" of <Company> 
             \\ if the law allows, by promissory note with terms the <Administrator> decides
             \\ by canceling debt
             \\ by surrendering shares, for <Fair Market Value> at the time
-            \\ <Cashless Exercise>
+            \\ under a <Cashless Exercise Program>
             \\ in any other legal way
             \\ by any combination
         The <Administrator> shall consider the benefit to the <Company> of different kinds of payment. 
@@ -190,7 +193,7 @@ This is a plan for ""Company"", [Company Name], to give ""Awards"" of <Company> 
             Subject to {Transfer Limits on Awards}, only the holder of an <Option> can exercise it.
 
             \ Exercise Terms \
-            The <Administrator> shall decide how <Options> can be exercised, within the limits set by this plan, and state them in <Option Agreements>.
+            The <Administrator> decides how each <Option> can be exercised, within the limits set by this plan, and states it in the <Option Packet>.
 
             \ Leaves of Absence \
             The <Administrator> may decide that vesting of an <Option> should pause during a leave of absence. 
@@ -202,12 +205,12 @@ This is a plan for ""Company"", [Company Name], to give ""Awards"" of <Company> 
 
             \ Minimum Exercise \
             <Options> cannot be exercised for fractions of a share. 
-            In addition, the <Administrator> may require an <Optionee> exercise for a minimum number of shares under an <Option>, so long as the minimum does not stop the <Optionee> exercising for all the shares they can.
+            In addition, the <Administrator> may require a <Participant> exercise for a minimum number of shares under an <Option>, so long as the minimum does not stop the <Participant> exercising for all the shares they can.
 
             \ Exercise Process \
             An <Option> is exercised once both of the following happen:
 
-                \\ The <Company> receives written notice of exercise that meets the requirements of the <Option Agreement>.
+                \\ The <Company> receives written notice of exercise that meets the requirements of the <Option Packet>.
 
                 \\ The <Company> receives full payment for the exercise.
 
@@ -215,12 +218,12 @@ This is a plan for ""Company"", [Company Name], to give ""Awards"" of <Company> 
 
             Exercise reduces the number of shares under the <Option> and in the <Pool>.
 
-            \ Stockholder Rights \
-            An <Optionee> exercising an <Option> does not have the right to vote, the right to received dividends, or any other rights as owner of the stock they purchase until the <Company> issues the shares and records their ownership in its corporate books or with its transfer agent. 
-            Subject to {Adjustments}, the <Company> will not adjust dividend or other rights based on record dates before <Optionee> stock is issued and recorded.
+            \ Stockholder Rights from Options \
+            An <Participant> exercising an <Option> does not have the right to vote, the right to received dividends, or any other rights as owner of the stock they purchase until the <Company> issues the shares and records their ownership in its corporate books or with its transfer agent. 
+            Subject to {Adjustments}, the <Company> will not adjust dividend or other rights based on record dates before <Participant> stock is issued and recorded.
 
             \ Leaving the Company \
-            The <Administrator> decides whether and how long an <Optionee> can exercise each <Option> after their <Service with the Company> ends, and reflect that decision in the <Option Agreement>. 
+            The <Administrator> decides whether and how long an <Participant> can exercise each <Option> after their <Service to the Company> ends, and reflect that decision in the <Option Packet>. 
             The <Administrator> may waive or change their decision at any time. 
             By default, these terms apply:
 
@@ -228,24 +231,24 @@ This is a plan for ""Company"", [Company Name], to give ""Awards"" of <Company> 
                 If an <Option> is not exercised before its deadline, the <Option> immediately terminates, and all stock under the <Option> returns to the <Pool> under {Returning Shares to the Pool}.
 
                 \ Disability \
-                Per section 422(c)(6) of the <Tax Code>, if an <Optionee>'s <Service to the Company> ends because of their <Disability>, the deadline to exercise an <Option> is the first anniversary of their last day of <Service to the Company>.
+                Per section 422(c)(6) of the <Tax Code>, if an <Participant>'s <Service to the Company> ends because of their <Disability>, the deadline to exercise an <Option> is the first anniversary of their last day of <Service to the Company>.
 
                 \ Death \
-                Per section 422(b)(5) of the <Tax Code>, if an <Optionee> dies, either during their <Service to the Company> or within three months of their last day of <Service to the Company>, the deadline to exercise their <Option> is the first anniversary of their last day of <Service to the Company>.
+                Per section 422(b)(5) of the <Tax Code>, if an <Participant> dies, either during their <Service to the Company> or within three months of their last day of <Service to the Company>, the deadline to exercise their <Option> is the first anniversary of their last day of <Service to the Company>.
 
                 \ Termination for Cause \
-                If the <Company> ends an <Optionee>'s <Service to the Company> for <Cause>, all their <Options> terminate immediately as soon as they learn their <Service to the Company> has ended. 
-                If the <Company> suspends an <Optionee>'s <Service to the Company> to investigate whether to end their <Service to the Company> for <Cause>, all rights under all their <Options> suspend until the investigation ends.
+                If the <Company> ends an <Participant>'s <Service to the Company> for <Cause>, all their <Options> terminate immediately as soon as they learn their <Service to the Company> has ended. 
+                If the <Company> suspends an <Participant>'s <Service to the Company> to investigate whether to end their <Service to the Company> for <Cause>, all rights under all their <Options> suspend until the investigation ends.
                 # TODO Review
-                These rules do not limit any <Company> right to purchase unvested shares under any <Option Agreement>.
+                These rules do not limit any <Company> right to purchase unvested shares under any <Option Packet>.
 
                 # TODO Change the default?
                 \ Leaving the Company Generally \
-                Otherwise, the deadline to exercise an <Option> is three months from the <Optionee>'s last day of <Service to the Company>.
+                Otherwise, the deadline to exercise an <Option> is three months from the <Participant>'s last day of <Service to the Company>.
 
             \ Option Buyout \
             The <Administrator> may offer to buy out <Options> for cash or shares of common stock. 
-            The <Administrator> will decide and give its terms for a buyout to the <Optionee> when it makes its offer.
+            The <Administrator> will decide and give its terms for a buyout to the <Participant> when it makes its offer.
 
     \ Restricted Stock \
 
@@ -256,24 +259,24 @@ This is a plan for ""Company"", [Company Name], to give ""Awards"" of <Company> 
             \\ the price, if any
             \\ the deadline for deciding whether to buy
         The <Administrator> decides the price, and may also grant <Restricted Stock> free of charge within the law. 
-        A <Participant> accepts an offer to buy <Restricted Stock> by entering a form <Restricted Stock Purchase Agreement> approved by the <Administrator>.
+        A <Participant> accepts an offer to buy <Restricted Stock> by entering a form <Restricted Stock Packet> approved by the <Administrator>.
 
         \ Payment for Restricted Stock \
-        The <Administrator> decides how <Participants> must pay for <Restricted Stock>. 
+        The <Administrator> decides how each <Participant> must pay for <Restricted Stock>. 
         The <Administrator> may allow payment:
             \\ in cash
             \\ by check
             \\ if the law allows, by promissory note with terms the <Administrator> decides
             \\ by canceling debt
             \\ by surrendering shares the <Participant> already owns, for their <Fair Market Value> at the time
-            \\ <Cashless Exercise>
+            \\ under a <Cashless Exercise Program>
             \\ in any other legal way
             \\ by any combination
 
         \ Buyback \
 
             \ Default Buyback Right\
-            Unless the <Administrator> decides differently, every <Restricted Stock Purchase Agreement> will give the <Company> the right to buy back <Restricted Stock> at the same price the purchaser originally paid, whenever the buyer's <Service to the Company> ends for any reason. 
+            Unless the <Administrator> decides differently, every <Restricted Stock Packet> will give the <Company> the right to buy back <Restricted Stock> at the same price the purchaser originally paid, whenever the buyer's <Service to the Company> ends for any reason. 
             The <Company> can pay for buybacks by canceling purchase debt to the <Company>.
             The <Administrator> will decide how the <Company>'s buyback right lapses.
 
@@ -284,10 +287,10 @@ This is a plan for ""Company"", [Company Name], to give ""Awards"" of <Company> 
             But when a <Participant> returns from military leave with rights under the Uniform Services Employment and Reemployment Rights Act, they receive the same lapsing credit for <Restricted Stock> they would have received if they had continued providing service during military leave as they had before military leave.
 
         \ Other Terms \
-        The <Administrator> may add any other terms, within the limits of this plan, to any <Restricted Stock Purchase Agreement>. 
-        The <Administrator> may offer different <Restricted Stock Purchase Agreement> terms to different <Participants>.
+        The <Administrator> may add any other terms, within the limits of this plan, to any <Restricted Stock Packet>. 
+        The <Administrator> need not offer each <Participant> the same terms.
 
-        \ Stockholder Rights \
+        \ Stockholder Rights from Restricted Stock \
         A <Participant> purchasing <Restricted Stock> does not have the right to vote, the right to received dividends, or any other rights as owner of the stock they purchase until the <Company> issues the shares and records their ownership in its corporate books or with its transfer agent. 
         Subject to {Adjustments}, the <Company> will not adjust dividend or other rights based on record dates before <Restricted Stock> is issued and recorded.
 
@@ -298,8 +301,8 @@ This is a plan for ""Company"", [Company Name], to give ""Awards"" of <Company> 
         The <Company> will not issue stock until tax obligations are covered.
 
         \ Cashless Exercise \
-        As the law allows, the <Administrator> allow a <Participant> to cover all or part of their tax obligations by <Cashless Exercise> and surrendering shares the <Participant> already owns. 
-        Unless the <Company> gives specific permission, every <Cashless Exercise> must either be broker-assisted or limited to avoid financial accounting charges, and the <Participant> must have held shares surrendered for a <Cashless Exercise> for enough time to avoid financial accounting charges. 
+        As the law allows, the <Administrator> allow a <Participant> to cover all or part of their tax obligations through a <Cashless Exercise Program> and surrendering shares the <Participant> already owns. 
+        Unless the <Company> gives specific permission, every transaction under a <Cashless Exercise Program> must either be broker-assisted or limited to avoid financial accounting charges, and the <Participant> must have held shares surrendered under a <Cashless Exercise Program> for enough time to avoid financial accounting charges. 
         Laws and regulations may impose other restrictions on paying tax by surrendering shares.
 
     \ Adjustments \
@@ -364,7 +367,7 @@ This is a plan for ""Company"", [Company Name], to give ""Awards"" of <Company> 
         Otherwise, the fact that the <Company> issues stock or securities convertible to stock will not affects or prompt any adjustment to any <Stock-Related Attributes> under any <Award>.
 
         \\
-        Whenever a <Stock Change> or <Reorganization> leads to an adjustment of a <Participant>'s <Award> or <Award Agreement> so that it covers more or different securities, those securities are subject to the same terms.
+        Whenever a <Stock Change> or <Reorganization> leads to an adjustment of a <Participant>'s <Award> or <Award Packet> so that it covers more or different securities, those securities are subject to the same terms.
 
         \ Dissolution and Liquidation \
         Unless the <Administrator> decides differently, every <Awards> terminates immediately before any dissolution or liquidation of the <Company>.
@@ -390,16 +393,6 @@ This is a plan for ""Company"", [Company Name], to give ""Awards"" of <Company> 
             \\
             the <Company> will cancel the <Award> for nothing
 
-        \\ ""Corporate Transaction"" means any of:
-
-            \\
-            transfer of all or substantially all the <Company>'s assets
-
-            \\
-            merger, consolidation, other capital reorganization, or other business combination transaction of the <Company> with or into another corporation, entity, or person
-
-            \\
-            the consummation of a transaction, or series of related transactions, in which any "person" (as used in sections 13(d) and 14(d) of the <Exchange Act>) becomes the "beneficial owner" (as defined in Rule 13d-3 of the <Exchange Act>), directly or indirectly, of more than fifty percent of the <Company>'s then outstanding capital stock
 
     \ Transfer Limits \
 
@@ -415,18 +408,18 @@ This is a plan for ""Company"", [Company Name], to give ""Awards"" of <Company> 
             A <Participant> may <Transfer an Award> by will or under inheritance law.
 
             \ While the Company Relies on 12h-1(f) \
-            With four exceptions, no one may <Transfer an Award> that is an <Option>, or any stock under any <Option>, while the <Company> is relying on the securities law exemption under Rule 12h-1(f)(1) of the <Exchange Act>. 
+            With four exceptions, no one may <Transfer an Award> that is an <Option>, or any stock under any <Option>, while the <Company> is relying on the securities law exemption under <Rule 12h-1(f)>. 
             The <Board> alone decides when the <Company> is relying on that exemption. 
             The exceptions are:
                 \\ transfer to <Family Members> by gift or under domestic relations orders
                 \\ transfer to a <Participant>'s executor on death
                 \\ transfer to a <Participant>'s guardian on disability
-                \\ <Board>-approved transfer of <Nonstatutory Stock Options> to the <Company> in connection with an acquisition transaction per Rule 12h-1(f)
+                \\ <Board>-approved transfer of <Nonstatutory Stock Options> to the <Company> in connection with an acquisition transaction per <Rule 12h-1(f)>
 
             \ Rule 12h-1(f) Disclosures \
-            The <Company> will provide all <Optionees> the information required by Rule 701(e)(3), (4), and (5) of the <Securities Act> whenever the <Company> relies on the securities law exemption under Rule 12h-1(f)(1), to comply with the requirements of the exemption. 
-            The <Company> may request that <Optionees> keep that information confidential. 
-            If an <Optionee> refuses to keep the information confidential, the <Company> will provide no more information than required by Rule 12h-1(f)(1).
+            The <Company> will provide every <Participant> the information required by Rule 701(e)(3), (4), and (5) of the <Securities Act> whenever the <Company> relies on the securities law exemption under <Rule 12h-1(f)>, to comply with the requirements of the exemption. 
+            The <Company> may request that every <Participant> keep that information confidential. 
+            If a <Participant> refuses to keep the information confidential, the <Company> will provide no more information than required by <Rule 12h-1(f)>.
 
             \ Transfers to Trusts \
             The <Administrator> may allow a <Participant> to transfer a <Nonstatutory Stock Option> to a living trust or will trust, so long as the trust will gift the <Nonstatutory Stock Option> to <Family Members> or pass it to beneficiaries when the maker of the trust dies.
@@ -445,24 +438,24 @@ This is a plan for ""Company"", [Company Name], to give ""Awards"" of <Company> 
             An agreement to do a <Stock Transfer> is itself a <Stock Transfer>.
 
             \ Attempted Transfers \
-            Any attempted <Transfer> in violation of this plan has no legal effect. 
+            Any attempted <Stock Transfer> in violation of this plan has no legal effect. 
             The <Company> will neither transfer shares under such a transfer on its books, nor treat the attempted recipient the as if they had rights as a shareholder.
 
             \ Approval Process \
-            A <Participant> may request permission to <Transfer> shares by writing the secretary of the <Company> with all of the following information: 
+            A <Participant> may request permission for a <Stock Transfer> shares by writing the <Secretary> with all of the following information: 
                 \\ their name
                 \\ the name of the proposed recipient of the shares
                 \\ the number of shares
                 \\ the purchase price
             The <Company> may require additional information of the <Participant>. 
-            The <Participant>'s request will also fall under any right of first refusal, transfer provision, or other term of their <Award Agreement>.
+            The <Participant>'s request will also fall under any right of first refusal, transfer provision, or other term of their <Award Packet>.
 
     \ Award Dates \
     The <Administrator> decides what date counts as the date of an <Award>. 
     By default, the date of an <Award> is the date the <Administrator> determined to grant the <Award>.
 
     \ No Employment Rights \
-    Neither this plan nor any <Award> under it give anyone any right to continued employment or contract work.
+    Neither this plan, its definition of <Cause>, nor any <Award> under it give anyone any right to continued employment or contract work.
 
     \ Term of the Plan \
     This plan starts when the <Board> adopts it and ends 10 years later. 
@@ -472,16 +465,16 @@ This is a plan for ""Company"", [Company Name], to give ""Awards"" of <Company> 
     Subject to {When Participants Must Agree to Changes} and any legal requirements, the <Board> may change this plan over time.
 
     \ Issuing Shares \
-    Despite any term of this plan or any <Award Agreement>, the <Company> will not issue any stock under this plan unless the <Company>, with its lawyers, decides that doing so would be legal. 
+    Despite any term of this plan or any <Award Packet>, the <Company> will not issue any stock under this plan unless the <Company>, with its lawyers, decides that doing so would be legal. 
     The <Company> will not be liable to anyone for delaying or refusing to issue shares in a way it believes would break the law. 
     If the <Company>'s lawyers request, the <Company> may requires a <Participant> to make representations and warranties at the time they exercise an <Option> or buy <Restricted Stock> to comply with the law and requirements for securities laws exemptions. 
     # TODO Necessary to restate
-    Stock received by exercising an <Option> or buying <Restricted Stock>, before the <Company>'s commons stock becomes a <Listed Security>, is subject to <Company> rights of first refusal per the <Award Agreement>.
+    Stock received by exercising an <Option> or buying <Restricted Stock>, before the <Company>'s commons stock becomes a <Listed Security>, is subject to <Company> rights of first refusal per the <Award Packet>.
 
     \ Beneficiaries \
     With the <Company>'s prior written permission, a <Participant> may designate beneficiaries for an <Award> by filing a <Company>-approved form. 
     Once a <Participant> has designated a beneficiary, the <Participant> may change their designation by filing a <Company>-approved form. 
-    Unless an <Award Agreement> says otherwise, if a deceased <Participant> does not designate a beneficiary for the <Award> who survives them, the <Award> goes to those entitled under the <Participant>'s will or under the inheritance law.
+    Unless an <Award Packet> says otherwise, if a deceased <Participant> does not designate a beneficiary for the <Award> who survives them, the <Award> goes to those entitled under the <Participant>'s will or under the inheritance law.
 
     \ Stockholder Approval \
     The law may require this plan be approved by <Company> stockholders within twelve months of adoption, as well as any change under {Changes to the Plan}.
@@ -491,16 +484,213 @@ This is a plan for ""Company"", [Company Name], to give ""Awards"" of <Company> 
     The terms of additions trump the terms of this plan as needed to accommodate those differences. 
     They will not have any other effect on this plan or other <Awards>.
 
-#       \ Restricted Stock \
+    \ Definitions \
 
-#   \ Who is Eligible for Awards \
+        \\
+        ""Affiliate"" (plural, ""Affiliates"") means any non-<Subsidiary> legal entity either:
+            \\ controlled by a third party that also controls or the <Company>; or
+            \\ that the <Company> and its <Subsidiaries> controls.
 
-#   \ Tax \
+        \\
+        ""Applicable Laws"" means all the <Legal Rules> that apply in a situation. 
+        <Applicable Laws> includes United States federal, state, and local <Legal Rules>, as well as <Legal Rules> of any relevant <Stock Exchange>. 
+        When foreign <Legal Rules> apply to an <Award>, <Applicable Laws> include those <Legal Rules>, too.
 
-#   \ When the Company's Structure Changes \
+        \\
+        ""Award"" means any award of an <Option> or <Restricted Stock> under this plan.
 
-#   \ Transferring Awards and Stock \
+        \\
+        ""Award Packet"" means an <Option Packet> or <Restricted Stock Packet>.
 
-#   \ Common Definitions \
+        \\
+        ""Board"" means the board of directors of the <Company>.
 
-#   \ Definitions \
+        \\
+        ""Cashless Exercise Program"" means an <Administrator>-approved program for paying the exercise price of an <Option>, or related tax obligations, partly or entirely with <Stock> under to the <Option>. 
+        Using a <Cashless Exercise Program> requires using a <Company>-approved for to give a securities broker an irrevocable direction to sell <Stock> and give proceeds to the <Company>.
+
+        \\
+        ""Cause"" means any of these:
+
+            \\
+            The <Participant> broke a significant written agreement with the <Company>.
+            The <Company> wrote the <Participant> about it.
+            The <Participant> failed to fix the problem in thirty calendar days.
+
+            \\
+            The <Participant> failed to comply with written <Company> policies or rules in a significant way.
+
+            \\
+            The <Participant> neglected or persistently performed their duties in an unsatisfactory way. 
+            The <Company> wrote the <Participant> about it.
+            The <Participant> failed to fix the problem in thirty calendar days.
+
+            \\
+            The <Participant> repeatedly failed to follow reasonable, legal instructions from the <Board> or the <CEO>. 
+            The <Company> wrote the <Participant> about it.
+            The <Participant> failed to fix the problem in thirty calendar days.
+
+            \\
+            The <Participant> plead guilty to, or plead no contest to, or was convicted of a crime. 
+            That fact might do significant harm to the <Company>'s business or reputation.
+
+            \\
+            The <Participant> defrauded or helped defraud the <Company>.
+
+            \\
+            The <Participant> intentionally did significant damage to the <Company>'s business, property, or reputation.
+
+            \\
+            The <Participant> broke an obligation not to use or disclose proprietary information or trade secrets the <Participant> learned through their relationship with the <Company>, without permission.
+
+        <Cause> does not mean death or <Disability>. 
+
+        The <Company> alone decides whether the <Company> ended a <Participant>'s <Service to the Company> for <Cause>, and will do so in good faith. 
+        Its decision is final.
+
+        \\
+        ""CEO"" means the chief executive officer of the <Company>.
+
+        \\
+        ""Change of Control"" means a <Corporate Transaction> unless its purpose is one of these:
+
+            \\
+            to transfer assets to, or combine with, a legal entity <Controlled> just after the <Corporate Transaction> by parties who <Controlled> the <Company> just before
+
+            \\
+            to change the jurisdiction where the <Company> is incorporated
+
+            \\
+            to create a holding company owned in nearly the same proportions by those who owned the <Company>'s securities just before
+
+            \\
+            to get funding for the <Company> in a <Board>-approved financing
+
+        \\
+        ""Committee"" means at least one committee or subcommittee of the <Board>, with at least the minimum number of <Director> members required by <Applicable Laws>, that the <Board> appointed to administer this plan under {Who Administers this Plan?}.
+
+        \\
+        ""Common Stock"" means the <Company>'s common stock.
+
+        \\
+        ""Consultant"" (plural, ""Consultants"") means any person or legal entity that provides or has provided services for the <Company> or any <Parent>, <Subsidiary>, or <Affiliate>, for compensation. 
+        An advisor is not a <Consultant>. 
+        Neither is any <Employee>.
+
+        \\
+        ""Service to the Company"" means continuous service as an <Employee> or <Consultant>. 
+        <Service to the Company> is not considered ended when someone:
+            \\ goes on military leave or any kind of <Company>-approved leave
+            \\ transfers between <Company> locations
+            \\ transfers between the <Company>, its <Parents>, its <Subsidiaries>, its <Affiliates>, and any of their successor companies.
+            \\ changes from <Employee> to <Consultant> or vice-versa
+        However, for an <Incentive Stock Option>, the <Employee>'s <Service to the Company> as an <Employee> is considered ended after three months of leave, unless the leave is guaranteed under a contract, <Applicable Laws>, or a <Company> policy. 
+        When leave ends <Service to the Company> for an <Incentive Stock Option>, it automatically becomes a <Nonstatutory Stock Option> under <Applicable Laws>.
+
+        \\ ""Controlled"" means owning securities of a legal entity representing a majority of votes that can be cast.
+
+        \\ ""Corporate Transaction"" means any of:
+
+            \\
+            transfer of all or substantially all the <Company>'s assets
+
+            \\
+            merger, consolidation, other capital reorganization, or other business combination transaction of the <Company> with or into another legal entity
+
+            \\
+            the consummation of a transaction, or series of related transactions, in which any "person" (as used in sections 13(d) and 14(d) of the <Exchange Act>) becomes the "beneficial owner" (as defined in Rule 13d-3 of the <Exchange Act>), directly or indirectly, of more than fifty percent of the <Company>'s then outstanding capital stock
+
+        \\
+        ""Director"" means a member of the <Board>.
+
+        \\
+        ""Disability"" means being "permanently and totally disabled" under section 22(e)(3) of the <Tax Code>.
+
+        \\
+        ""Employee"" (plural, ""Employees"") means any person employed by the <Company> or any <Parent>, <Subsidiary>, or <Affiliate>. 
+        The <Company> alone decides what factors are considered to decide whether a person is employed under <Applicable Laws>, including the <Tax Code>. 
+        <Company> payment of a director's does not itself show that someone is employed.
+
+        \\
+        ""Exchange Act"" means the Securities Exchange Act of 1934.
+
+        \\
+        ""Fair Market Value"" means, as of any date, the per share fair market value of the <Common Stock> as determined under {Determining Fair Market Value}. 
+
+        \\
+        ""Family Members"" means all of:
+            \\ children, stepchildren, grandchildren, parents, stepparents, grandparents, spouses, former spouses, siblings, children of siblings, parents-in-law, children-in-law, and siblings-in-law of a <Participant>, including relations by adoption
+            \\ people sharing a <Participant>'s household, other than tenants and employees
+            \\ trusts in which <Family Members> or the <Participant> have more than 50% of the beneficial interest
+            \\ foundations in which <Family Members> or the <Participant> control management of assets
+            \\ any other entities <Controlled> by <Family Members> or the <Participant>
+
+        \\
+        ""Incentive Stock Option"" (plural, ""Incentive Stock Options"") means an <Option> intentionally qualifying as an "incentive stock option" under section 422 of the <Tax Code>.
+
+        \\
+        ""Legal Rules"" means laws, rules, regulations, and other legal requirements.
+
+        \\
+        ""Listed Security"" means any <Company> security either:
+            \\ listed, or approved for listing, on a national securities exchange
+            \\ designated, or approved for designation, as a national market system security on an interdealer quotation system by FINRA or any successor to FINRA
+
+        \\
+        ""Nonstatutory Stock Option"" (plural, ""Nonstatutory Stock Options"") means an <Option> that is not an <Incentive Stock Option>.
+
+        \\
+        ""Option"" (plural, ""Options"") means a stock option granted under this plan.
+
+        \\
+        ""Option Packet"" means a set of <Administrator>-approved form documents for the terms of an <Option>.
+
+        \\
+        ""Option Exchange Program"" means an <Administrator>-approved program for any of:
+
+            \\
+            exchanging <Options> for <Options> with a lower exercise price, <Restricted Stock>, cash, or other property
+
+            \\
+            amending <Options> to decrease their exercise price, due to a drop in <Fair Market Value>
+
+        \\
+        ""Parent"" (plural, ""Parents"") means any corporation the <Company> is <Controlled> by, any <Parent> of a <Parent>, and so on. 
+        A corporation can become a <Parent> after this plan is adopted or amended if it comes to meet this definition.
+
+        \\
+        ""Participant"" means any holder of an <Awards> or <Stock> issued under an <Award>.
+
+        \\
+        ""Restricted Stock"" means <Stock> acquired under {Restricted Stock}.
+
+        \\
+        ""Restricted Stock Packet"" means a set of <Administrator>-approved form documents for the terms of <Restricted Stock>.
+
+        \\
+        ""Rule 12h-1(f)"" means Rule 12h-1(f) under the <Exchange Act>.
+
+        \\
+        ""Rule 16b-3"" means Rule 16b-3 under the <Exchange Act>.
+
+        \\
+        ""Secretary"" means the secretary of the <Company>.
+
+        \\
+        ""Securities Act"" means the Securities Act of 1933.
+
+        \\
+        ""Stock"" means a shares of <Common Stock>, as adjusted under {Adjustments}.
+
+        \\
+        ""Stock Exchange"" means any stock exchange or consolidated stock price reporting system quoting prices for <Common Stock>.
+
+        \\
+        ""Subsidiary"" (plural, ""Subsidiaries"") means any corporation <Controlled> by the <Company>, any <Subsidiary> of a <Subsidiary>, and so on.
+        A corporation can become a <Subsidiary> after this plan is adopted or amended if it comes to meet this definition.
+
+        \\
+        ""Tax Code"" means the Internal Revenue Code of 1986.
+
+        \\
+        ""Ten Percent Holder"" means a person who owns stock representing more than ten percent of the voting power of all classes of stock of the <Company>, any <Parent>, or any <Subsidiary>, measured as of the date an <Award> is granted.
