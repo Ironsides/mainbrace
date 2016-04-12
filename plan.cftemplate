@@ -39,7 +39,7 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
 
             \\ When an <Option> is traded in under an <Option Exchange Program>, the <Stock> under the <Option> returns to the <Pool>.
 
-            \\ When the <Company> holds back shares under an <Award> to cover part of the <Participant>'s purchase price or withholding tax, the <Stock> the <Company> holds back returns to the <Pool>.
+            \\ When the <Company> holds back shares under an <Cashless Exercise Program>, the <Stock> the <Company> holds back returns to the <Pool>.
 
             \\ When <Restricted Stock> is forfeited to the <Company>, those shares return to the <Pool>.
 
