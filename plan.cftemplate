@@ -33,17 +33,23 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to grant
         \ Returning Stock to the Pool \
         Some <Stock> under <Awards> may return to the <Pool>, to be recycled under new <Awards>.
 
-            \\ When an <Award> expires before the <Company> issues all the <Stock> under it, the <Stock> the <Company> has not issued returns to the <Pool>.
+            \\
+            When an <Award> expires before the <Company> issues all the <Stock> under it, the <Stock> the <Company> has not issued returns to the <Pool>.
 
-            \\ When an <Award> may no longer be exercised, any <Stock> under the <Award> that the <Company> has not issued returns to the <Pool>.
+            \\
+            When an <Award> may no longer be exercised, any <Stock> under the <Award> that the <Company> has not issued returns to the <Pool>.
 
-            \\ When an <Option> is traded in under an <Option Exchange Program>, the <Stock> under the <Option> returns to the <Pool>.
+            \\
+            When an <Option> is traded in under an <Option Exchange Program>, the <Stock> under the <Option> returns to the <Pool>.
 
-            \\ When the <Company> holds back shares under a <Cashless Exercise Program>, the <Stock> the <Company> holds back returns to the <Pool>.
+            \\
+            When the <Company> holds back shares under a <Cashless Exercise Program>, the <Stock> the <Company> holds back returns to the <Pool>.
 
-            \\ When <Restricted Stock> is forfeited to the <Company>, those shares return to the <Pool>.
+            \\
+            When <Restricted Stock> is forfeited to the <Company>, those shares return to the <Pool>.
 
-            \\ When the <Company> uses a right to buy back <Restricted Stock>, those shares return to the <Pool>.
+            \\
+            When the <Company> uses a right to buy back <Restricted Stock>, those shares return to the <Pool>.
 
         <Stock> stops returning to the <Pool> when this plan terminates.
 
@@ -220,11 +226,14 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to grant
             \ Exercise Process \
             An <Option> is considered exercised once all of these happen:
 
-                \\ The <Company> receives written notice of exercise that meets the requirements of the <Option Packet> and this plan.
+                \\
+                The <Company> receives written notice of exercise that meets the requirements of the <Option Packet> and this plan.
 
-                \\ The <Company> receives full payment.
+                \\
+                The <Company> receives full payment.
 
-                \\ The <Company> has covered, or arranged to over, all tax obligations under {Tax}.
+                \\
+                The <Company> has covered, or arranged to over, all tax obligations under {Tax}.
 
             # TODO Necessary?
             Exercise reduces the number of shares under the <Option> and in the <Pool>.
@@ -266,9 +275,16 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to grant
         \ Grant Process \
         The <Company> will give those granted <Restricted Stock> the terms of their offers in writing. 
         The terms of each offer will include at least:
-            \\ the number of shares of <Stock> they may buy
-            \\ the price, if any
-            \\ the deadline for accepting the offer
+
+            \\
+            the number of shares of <Stock> they may buy
+
+            \\
+            the price, if any
+
+            \\
+            the deadline for accepting the offer
+
         The <Administrator> will decide the price, and may also grant <Restricted Stock> free of charge as permitted by <Applicable Law>. 
         A <Participant> accepts an offer to buy <Restricted Stock> by agreeing to the terms of a <Restricted Stock Packet> from the <Administrator>.
 
@@ -360,10 +376,18 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to grant
             With four exceptions, <Award Transfer> of an <Option>, or any <Stock> under any <Option>, is not allowed while the <Company> relies on the securities law exemption under <Rule 12h-1(f)>. 
             The <Board> alone will decide when the <Company> is relying on that exemption. 
             The exceptions are:
-                \\ transfer to <Family Members> by gift or under domestic relations orders
-                \\ transfer to a <Participant>'s executor on death
-                \\ transfer to a <Participant>'s guardian on disability
-                \\ per <Rule 12h-1(f)>, <Board>-approved transfer of <Nonstatutory Stock Options> to the <Company> in connection with an acquisition transaction
+
+                \\
+                transfer to <Family Members> by gift or under domestic relations orders
+
+                \\
+                transfer to a <Participant>'s executor on death
+
+                \\
+                transfer to a <Participant>'s guardian on disability
+
+                \\
+                per <Rule 12h-1(f)>, <Board>-approved transfer of <Nonstatutory Stock Options> to the <Company> in connection with an acquisition transaction
 
             \ Rule 12h-1(f) Disclosures \
             Per <Rule 12h-1(f)>, the <Company> will provide each <Participant> the information required by Rule 701(e)(3), (4), and (5) of the <Securities Act> whenever the <Company> relies on the securities law exemption under <Rule 12h-1(f)>. 
@@ -385,10 +409,19 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to grant
 
             \ Approval Process \
             A <Participant> may request permission for a <Stock Transfer> by writing the <Secretary> with all of the following information: 
-                \\ the <Participant>'s name
-                \\ the name of the proposed recipient of <Stock>
-                \\ the number of shares of <Stock> to be transferred
-                \\ the purchase price
+
+                \\
+                the <Participant>'s name
+
+                \\
+                the name of the proposed recipient of <Stock>
+
+                \\
+                the number of shares of <Stock> to be transferred
+
+                \\
+                the purchase price
+
             The <Company> may require additional information. 
             The <Participant>'s request will also fall under any right of first refusal, transfer provision, or other term of their <Award Packet>.
 
@@ -413,8 +446,12 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to grant
 
         \\
         ""Affiliate"" (plural, ""Affiliates"") means any non-<Subsidiary> legal entity either:
-            \\ under common control with the <Company>
-            \\ <Controlled> by the <Company>, <Subsidiaries>, or the <Company> with <Subsidiaries>.
+
+            \\
+            under common control with the <Company>
+
+            \\
+            <Controlled> by the <Company>, <Subsidiaries>, or the <Company> with <Subsidiaries>.
 
         \\
         ""Administrator"" means the group or groups who administer this plan.
@@ -506,35 +543,54 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to grant
         An advisor is not a <Consultant>. 
         Neither is any <Employee>.
 
-        \\ ""Corporate Change Affecting Stock"" means all of these:
+        \\
+        ""Corporate Change Affecting Stock"" means all of these:
 
-            \\ a stock split
+            \\
+            a stock split
 
-            \\ a reverse stock split
+            \\
+            a reverse stock split
 
-            \\ a stock dividend
+            \\
+            a stock dividend
 
-            \\ a combination
+            \\
+            a combination
 
-            \\ a consolidation
+            \\
+            a consolidation
 
-            \\ a reclassification of shares
+            \\
+            a reclassification of shares
 
-            \\ a subdivision of shares
+            \\
+            a subdivision of shares
 
         \\
         ""Service to the Company"" means continuous service as an <Employee> or <Consultant>. 
         <Service to the Company> is not considered ended when someone:
-            \\ goes on military leave or any kind of <Company>-approved leave
-            \\ transfers between <Company> locations
-            \\ transfers between the <Company>, its <Parents>, its <Subsidiaries>, its <Affiliates>, and any of their successor companies.
-            \\ changes from <Employee> to <Consultant> or vice-versa
+
+            \\
+            goes on military leave or any kind of <Company>-approved leave
+
+            \\
+            transfers between <Company> locations
+
+            \\
+            transfers between the <Company>, its <Parents>, its <Subsidiaries>, its <Affiliates>, and any of their successor companies.
+
+            \\
+            changes from <Employee> to <Consultant> or vice-versa
+
         But, for an <Incentive Stock Option>, the <Employee>'s <Service to the Company> as an <Employee> is considered ended after three months of leave, unless the leave is guaranteed under a contract, <Applicable Law>, or a <Company> policy. 
         When <Service to the Company> ends for an <Incentive Stock Option>, the <Incentive Stock Option> automatically becomes a <Nonstatutory Stock Option>.
 
-        \\ ""Controlled"" means owning securities of a legal entity representing a majority of votes that can be cast.
+        \\
+        ""Controlled"" means owning securities of a legal entity representing a majority of votes that can be cast.
 
-        \\ ""Corporate Transaction"" means any of:
+        \\
+        ""Corporate Transaction"" means any of:
 
             \\
             transfer of all or substantially all the <Company>'s assets
@@ -564,11 +620,21 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to grant
 
         \\
         ""Family Members"" means all of:
-            \\ children, stepchildren, grandchildren, parents, stepparents, grandparents, spouses, former spouses, siblings, children of siblings, parents-in-law, children-in-law, and siblings-in-law of a <Participant>, by consanguinity or adoption
-            \\ people sharing a <Participant>'s household who are not tenants or employees
-            \\ trusts in which <Family Members> or the <Participant> have more than fifty percent of the beneficial interest
-            \\ foundations in which <Family Members> or the <Participant> control management of assets
-            \\ any other entities <Controlled> by <Family Members> or the <Participant>
+
+            \\
+            children, stepchildren, grandchildren, parents, stepparents, grandparents, spouses, former spouses, siblings, children of siblings, parents-in-law, children-in-law, and siblings-in-law of a <Participant>, by consanguinity or adoption
+
+            \\
+            people sharing a <Participant>'s household who are not tenants or employees
+
+            \\
+            trusts in which <Family Members> or the <Participant> have more than fifty percent of the beneficial interest
+
+            \\
+            foundations in which <Family Members> or the <Participant> control management of assets
+
+            \\
+            any other entities <Controlled> by <Family Members> or the <Participant>
 
         \\
         ""Incentive Stock Option"" (plural, ""Incentive Stock Options"") means an <Option> intentionally qualifying as an "incentive stock option" under section 422 of the <Tax Code>.
@@ -581,8 +647,12 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to grant
 
         \\
         ""Listed Security"" means any <Company> security either:
-            \\ listed, or approved for listing, on a national securities exchange
-            \\ designated, or approved for designation, as a national market system security on an interdealer quotation system, by FINRA or any successor to FINRA
+
+            \\
+            listed, or approved for listing, on a national securities exchange
+
+            \\
+            designated, or approved for designation, as a national market system security on an interdealer quotation system, by FINRA or any successor to FINRA
 
         \\
         ""Nonstatutory Stock Option"" (plural, ""Nonstatutory Stock Options"") means an <Option> that is not an <Incentive Stock Option>.
@@ -612,27 +682,38 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to grant
         \\
         ""Pool"" means the allotment of <Stock> the <Administrator> may issue under this plan.
 
-        \\ ""Reorganization"" means any of these:
+        \\
+        ""Reorganization"" means any of these:
 
-            \\ the number of issued shares changes without the <Company> receiving any legal "consideration"
+            \\
+            the number of issued shares changes without the <Company> receiving any legal "consideration"
 
-            \\ the <Company> declares an extraordinary dividend for <Stock> paid other than in <Stock>, with a significant effect on <Fair Market Value>
+            \\
+            the <Company> declares an extraordinary dividend for <Stock> paid other than in <Stock>, with a significant effect on <Fair Market Value>
 
-            \\ recapitalization, through a large nonrecurring cash dividend or otherwise
+            \\
+            recapitalization, through a large nonrecurring cash dividend or otherwise
 
-            \\ a rights offering
+            \\
+            a rights offering
 
-            \\ a reorganization
+            \\
+            a reorganization
 
-            \\ a merger
+            \\
+            a merger
 
-            \\ a spin-off
+            \\
+            a spin-off
 
-            \\ a split-up
+            \\
+            a split-up
 
-            \\ a change in corporate structure
+            \\
+            a change in corporate structure
 
-            \\ any other, similar transaction
+            \\
+            any other, similar transaction
 
         \\
         ""Restricted Stock"" means <Stock> acquired under {Restricted Stock}.
@@ -654,14 +735,30 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to grant
 
         \\
         ""Standard Payment Method"" means any of these payment methods:
-            \\ cash
-            \\ check
-            \\ if <Applicable Law> permits, promissory note, with terms decided by the <Administrator>
-            \\ canceling debt
-            \\ surrendering shares, for their <Fair Market Value>
-            \\ use of a <Cashless Exercise Program>
-            \\ any other legal method
-            \\ any combination methods
+
+            \\
+            cash
+
+            \\
+            check
+
+            \\
+            if <Applicable Law> permits, promissory note, with terms decided by the <Administrator>
+
+            \\
+            canceling debt
+
+            \\
+            surrendering shares, for their <Fair Market Value>
+
+            \\
+            use of a <Cashless Exercise Program>
+
+            \\
+            any other legal method
+
+            \\
+            any combination methods
 
         \\
         ""Starting Size of the Pool"" means the number of shares of <Stock> in the <Pool> when this plan is adopted.
@@ -669,15 +766,20 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to grant
         \\
         ""Stock"" means shares of the <Company>'s common stock, as adjusted under {Adjustments}.
 
-        \\ ""Stock Details and Figures"" means all of these:
+        \\
+        ""Stock Details and Figures"" means all of these:
 
-            \\ the number and kind of securities in the <Pool>
+            \\
+            the number and kind of securities in the <Pool>
 
-            \\ the number and kind of securities under any <Award>
+            \\
+            the number and kind of securities under any <Award>
 
-            \\ the exercise price per share under any <Option>
+            \\
+            the exercise price per share under any <Option>
 
-            \\ the price per share under any <Company> buyback right under any <Award>
+            \\
+            the price per share under any <Company> buyback right under any <Award>
 
         \\
         ""Stock Transfer"" means any transfer, read broadly, of any interest in <Stock> acquired under an <Award>. 
