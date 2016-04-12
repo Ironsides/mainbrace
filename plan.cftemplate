@@ -333,9 +333,6 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
             \ No Transferring Awards \
             Other than under {Transfer by Will and Inheritance}, {While the Company Relies on 12h-1(f)},and {Transfers to Trusts}, <Award Transfer> is not allowed.
 
-            \\ ""Award Transfer"" means selling, pledging, assigning, or using any interest in an <Award> to secure a debt, taking a short position, taking a "put equivalent position" (as defined in Rule 16a-1(h) of the <Exchange Act>), or taking a "call equivalent position" (as defined in Rule 16a-1(b) of the <Exchange Act>). 
-            Naming a beneficiary is not an <Award Transfer>.
-
             \ Transfer by Will and Inheritance \
             <Award Transfer> by will or under inheritance law is allowed.
 
@@ -361,13 +358,6 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
             \ No Transferring Stock \
             <Stock Transfer> is not allowed, unless the <Company>'s specific permission, in writing and in advance. 
             The <Company> may refuse permission for a <Stock Transfer> for any reason. 
-
-            \\
-            ""Stock Transfer"" means any transfer, read broadly, of any interest in <Stock> acquired under an <Award>. 
-            Selling, gifting, placing in trust, pledging for a debt, or allowing a lien to apply to <Stock> are each an example of a <Stock Transfer>. 
-            So are transactions, like short sales, offsetting derivatives, futures, forward contracts, that significantly change the financial risk and benefits of owning <Stock>. 
-            Giving another the right to vote or take other action as a stockholder, perhaps by proxy, is also a <Stock Transfer>. 
-            An agreement to do a <Stock Transfer> is itself a <Stock Transfer>.
 
             \ Attempted Transfers \
             Any attempted <Stock Transfer> in violation of this plan has no legal effect. 
@@ -436,6 +426,10 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
 
         \\
         ""Award Packet"" means an <Option Packet> or <Restricted Stock Packet>.
+
+        \\
+        ""Award Transfer"" means selling, pledging, assigning, or using any interest in an <Award> to secure a debt, taking a short position, taking a "put equivalent position" (as defined in Rule 16a-1(h) of the <Exchange Act>), or taking a "call equivalent position" (as defined in Rule 16a-1(b) of the <Exchange Act>). 
+        Naming a beneficiary is not an <Award Transfer>.
 
         \\
         ""Board"" means the board of directors of the <Company>.
@@ -681,6 +675,13 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
             \\ the exercise price per share under any <Option>
 
             \\ the price per share under any <Company> buyback right under any <Award>
+
+        \\
+        ""Stock Transfer"" means any transfer, read broadly, of any interest in <Stock> acquired under an <Award>. 
+        Selling, gifting, placing in trust, pledging for a debt, or allowing a lien to apply to <Stock> are each an example of a <Stock Transfer>. 
+        So are transactions, like short sales, offsetting derivatives, futures, forward contracts, that significantly change the financial risk and benefits of owning <Stock>. 
+        Giving another the right to vote or take other action as a stockholder, perhaps by proxy, is also a <Stock Transfer>. 
+        An agreement to do a <Stock Transfer> is itself a <Stock Transfer>.
 
         \\
         ""Subsidiary"" (plural, ""Subsidiaries"") means any corporation <Controlled> by the <Company>, any <Subsidiary> of a <Subsidiary>, and so on. 
