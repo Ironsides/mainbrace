@@ -306,17 +306,17 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
 
     \ Adjustments \
 
-        \ Proportional Adjustment \
+        \ Automatic Adjustment \
         Subject to any stockholder approval required by law, all <Stock-Related Attributes> under this plan are automatically adjusted, proportionally, whenever the <Company> makes a <Stock Change>.
 
-        \\
+        \ Adjustment by the Administrator \
         The <Administrator> may adjust any <Stock-Related Attributes> as it thinks appropriate whenever the <Company> does a <Reorganization>. 
         The <Administrator>'s changes are final.
 
-        \\
+        \ No Other Adjustments \
         Otherwise, the fact that the <Company> issues stock or securities convertible to stock will not affects or prompt any adjustment to any <Stock-Related Attributes> under any <Award>.
 
-        \\
+        \ Effect on Additional Stock \
         Whenever a <Stock Change> or <Reorganization> leads to an adjustment of a <Participant>'s <Award> or <Award Packet> so that it covers more or different securities, those securities are subject to the same terms.
 
         \ Dissolution and Liquidation \
@@ -324,7 +324,7 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
 
         \ Corporate Transactions \
         The <Administrator> decides how to treat each <Award> whenever the <Company> does a <Corporate Transaction>, without any consent from any <Participant>. 
-        The <Administrator> may treat <Awards> differently.
+        The <Administrator> may treat <Awards> differently. 
         For example, the <Administrator> may choose 
         The <Administrator> will decide that:
 
