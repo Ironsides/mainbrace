@@ -157,47 +157,44 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to grant
         Each <Option> under this plan will be either an <Incentive Stock Option> or a <Nonstatutory Stock Option>.
 
         \ $100,000 Limit \
-        Section 422(d) of the <Tax Code> imposes a limit on the number of a <Participant>'s <Options> that can be treated as <Incentive Stock Options> in a calendar year. 
+        Section 422(d) of the <Tax Code> imposes a $100,000 <Fair Market Value> limit on the number of a <Participant>'s <Options> that can be treated as <Incentive Stock Options> in a calendar year. 
         <Incentive Stock Options> that exceed that limit will be treated as <Nonstatutory Stock Options>.
 
         \ Option Terms \
         An <Option Packet> will set the term of each <Option> under this plan, with two limits:
 
             \ 10-Year Limit \
-            The longest term for any <Option> is ten years from the day granted.
+            To satisfy section 422(b)(3) of the <Tax Code>, the longest term for any <Option> is ten years from the day granted.
 
             \ 5-Year Limit for Ten Percent Holders \
-            The longest term for <Option> granted someone who is a <Ten Percent Holder> at the time is five years from the day granted.
+            To satisfy section 422(c)(5) of the <Tax Code>, the longest term for any <Option> granted someone who is a <Ten Percent Holder> at the time is five years from the day granted.
 
-        If the term in an <Option Packet> goes over its limit, the term of the <Option> is the limit, not what the <Option Packet> says.
+        If the term in an <Option Packet> goes over its limit, the term of the <Option> is the limit, no matter what the <Option Packet> says.
 
         \ Exercise Prices \
 
             \ Incentive Stock Option Exercise Prices \
-            Subject to {Special Exercise Prices}, an <Option Packet> will set the exercise price of each <Incentive Stock Option> under this plan, with three limits:
+            Subject to {Special Exercise Prices}, an <Option Packet> will set the exercise price of each <Incentive Stock Option>, with these limits:
 
-                # IRC 422(b)(4)
-                \ 100% Fair Market Value Minimum \
-                To satisfy section 422(b)(4) of the <Tax Code>, the lowest exercise price for an <Incentive Stock Option> granted an <Employee> who is not a <Ten Percent Holder> at the time is 100% of <Fair Market Value> on grant.
+                \\
+                Per section 422(b)(4) of the <Tax Code>, the lowest exercise price for an <Incentive Stock Option> granted an <Employee> who is not a <Ten Percent Holder> at the time is 100% of <Fair Market Value> on grant.
 
-                # IRC 422(c)(5)
-                \ 110% Fair Market Value Minimum for Ten Percent Holders \
-                To follow section 422(c)(5) of the <Tax Code>, the lowest exercise price for an <Incentive Stock Option> granted an <Employee> who is a <Ten Percent Holder> at the time is 110% of <Fair Market Value> on grant.
+                \\
+                Per section 422(c)(5) of the <Tax Code>, the lowest exercise price for an <Incentive Stock Option> granted an <Employee> who is a <Ten Percent Holder> at the time is 110% of <Fair Market Value> on grant.
 
-            If the exercise price in an <Option Packet> goes over its limit, the exercise price of the <Option> is the limit, not what the <Option Packet> says.
+            If the exercise price in an <Option Packet> goes over its limit, the exercise price of the <Option> is the limit, no matter what the <Option Packet> says.
 
             \ Nonstatutory Stock Option Exercise Prices \
             Subject to {Adjustments} and {Special Exercise Prices}, the <Administrator> will decide the exercise price of each <Nonstatutory Stock Option>. 
             If the exercise price of a <Nonstatutory Stock Option> is less than <Fair Market Value> on grant, the terms of the <Option> will abide by other <Applicable Laws>, including section 409A of the <Tax Code> (Inclusion in gross income of deferred compensation...).
 
             \ Special Exercise Prices \
-            The <Administrator> can set lower exercise prices pursuant to a merger or other corporate transaction.
+            The <Administrator> can set lower exercise prices as part of a <Corporate Transaction>.
 
         \ Payment to Exercise Options \
         The <Administrator> decides how each <Participant> must pay to exercise <Options> under this plan. 
-        For <Incentive Stock Options> the <Administrator> decides when granted. 
-        The <Administrator> may allow payment by any <Standard Payment Method>. 
-        The <Administrator> will consider the benefit to the <Company> of different kinds of payment. 
+        For <Incentive Stock Options>, the <Administrator> decides when granted. 
+        The <Administrator> may allow payment by any <Standard Payment Method>, and the <Administrator> will consider the benefit to the <Company> of different methods of payment. 
         The <Administrator> may refuse to accept any kind of payment at time of exercise.
 
         \ Exercise \
@@ -206,58 +203,59 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to grant
             Subject to {Transfer Limits on Awards}, only the holder of an <Option> can exercise it.
 
             \ Exercise Terms \
-            The <Administrator> decides how each <Option> can be exercised, within the limits set by this plan, and states it in the <Option Packet>.
+            The <Administrator> decides how each <Option> can be exercised, within the limits of this plan, and states it in the <Option Packet>.
 
             \ Leaves of Absence \
             The <Administrator> may decide that vesting of an <Option> should pause during a leave of absence. 
-            If the <Administrator> does not decide to pause vesting, vesting continues during paid leave to the fullest legal extent.
+            By default, vesting continues during paid leave to the fullest legal extent allowed by <Applicable Laws>.
 
             \ Military Leave \
             Vesting of an <Option> pauses during unpaid military leave. 
-            But when a <Participant> returns from military leave with rights under the Uniform Services Employment and Reemployment Rights Act, they receive the same vesting credit under <Options> they would have received if they had continued providing service during military leave as they had before military leave.
+            But when a <Participant> returns from military leave with rights under the Uniform Services Employment and Reemployment Rights Act, they receive the same vesting credit under <Options> they would have received if they had continued providing service during military leave as just they had before military leave.
 
             \ Minimum Exercise \
             <Options> cannot be exercised for fractions of a share. 
-            In addition, the <Administrator> may require a <Participant> exercise for a minimum number of shares under an <Option>, so long as the minimum does not stop the <Participant> exercising for all the shares they can.
+            The <Administrator> may require a <Participant> exercise for a minimum number of shares under an <Option>, so long as the minimum does not stop the <Participant> exercising for all the shares they can.
 
             \ Exercise Process \
-            An <Option> is exercised once both of the following happen:
+            An <Option> is considered exercised once all of these happen:
 
-                \\ The <Company> receives written notice of exercise that meets the requirements of the <Option Packet>.
+                \\ The <Company> receives written notice of exercise that meets the requirements of the <Option Packet> and this plan.
 
-                \\ The <Company> receives full payment for the exercise.
+                \\ The <Company> receives full payment.
 
-                \\ The <Company> has paid, or arranged to pay, any tax, withholding, deductions, and other tax payments under {Tax}.
+                \\ The <Company> has covered, or arranged to over, all tax obligations under {Tax}.
 
+            # TODO Necessary?
             Exercise reduces the number of shares under the <Option> and in the <Pool>.
 
             \ Stockholder Rights from Options \
-            An <Participant> exercising an <Option> does not have the right to vote, the right to received dividends, or any other rights as owner of the <Stock> they purchase until the <Company> issues the shares and records their ownership in its corporate books or with its transfer agent. 
-            Subject to {Adjustments}, the <Company> will not adjust dividend or other rights based on record dates before <Participant> <Stock> is issued and recorded.
+            A <Participant> exercising an <Option> does not have the right to vote, the right to received dividends, or any other rights as owner of the <Stock> they are purchasing until the <Company> issues the <Stock> and records their ownership in its corporate books or with its transfer agent. 
+            Subject to {Adjustments}, the <Company> will not adjust dividend or other rights based on record dates before the <Company> issues and records the <Stock>.
 
             \ Leaving the Company \
-            The <Administrator> decides whether and how long an <Participant> can exercise each <Option> after their <Service to the Company> ends, and reflect that decision in the <Option Packet>. 
+            The <Administrator> decides whether and how long a <Participant> can exercise each <Option> after their <Service to the Company> ends, and reflect that decision in the <Option Packet>. 
             The <Administrator> may waive or change their decision at any time. 
             By default, these terms apply:
 
                 \ Deadline to Exercise \
-                If an <Option> is not exercised before its deadline, the <Option> immediately terminates, and all <Stock> under the <Option> returns to the <Pool> under {Returning Stock to the Pool}.
+                If an <Option> is not exercised before its deadline, the <Option> immediately terminates.
 
                 \ Disability \
-                Per section 422(c)(6) of the <Tax Code>, if an <Participant>'s <Service to the Company> ends because of their <Disability>, the deadline to exercise an <Option> is the first anniversary of their last day of <Service to the Company>.
+                Per section 422(c)(6) of the <Tax Code>, if a <Participant>'s <Service to the Company> ends because of their <Disability>, the deadline to exercise an <Option> is the first anniversary of their <Last Day>.
 
                 \ Death \
-                Per section 422(b)(5) of the <Tax Code>, if an <Participant> dies, either during their <Service to the Company> or within three months of their last day of <Service to the Company>, the deadline to exercise their <Option> is the first anniversary of their last day of <Service to the Company>.
+                Per section 422(b)(5) of the <Tax Code>, if a <Participant> dies, either during their <Service to the Company> or within three months of their <Last Day>, the deadline to exercise their <Option> is the first anniversary of their <Last Day>.
 
                 \ For Cause \
-                If the <Company> ends an <Participant>'s <Service to the Company> for <Cause>, all their <Options> terminate immediately as soon as they learn their <Service to the Company> has ended. 
-                If the <Company> suspends an <Participant>'s <Service to the Company> to investigate whether to end their <Service to the Company> for <Cause>, all rights under all their <Options> suspend until the investigation ends. 
-                # TODO Review
+                If the <Company> ends a <Participant>'s <Service to the Company> for <Cause>, all their <Options> terminate immediately as soon as they learn their <Service to the Company> has ended. 
+                If the <Company> suspends a <Participant>'s <Service to the Company> to investigate whether to end their <Service to the Company> for <Cause>, all rights under all their <Options> suspend until the investigation ends. 
+                # TODO Necessary?
                 These rules do not limit any <Company> right to purchase unvested shares under any <Option Packet>.
 
                 # TODO Change the default?
                 \ Leaving the Company Generally \
-                Otherwise, the deadline to exercise an <Option> is three months from the <Participant>'s last day of <Service to the Company>.
+                Otherwise, the deadline to exercise an <Option> is three months after the <Participant>'s <Last Day>.
 
             \ Option Buyout \
             The <Administrator> may offer to buy out <Options> for cash or <Stock>. 
@@ -559,6 +557,9 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to grant
 
         \\
         ""Incentive Stock Option"" (plural, ""Incentive Stock Options"") means an <Option> intentionally qualifying as an "incentive stock option" under section 422 of the <Tax Code>.
+
+        \\
+        ""Last Day"" means a <Participant>'s last full day of <Service to the Company>.
 
         \\
         ""Legal Rules"" means laws, rules, regulations, and other legal requirements.
