@@ -395,19 +395,19 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to grant
     \ The Plan \
 
         \ Stockholder Approval \
-        <Applicable Laws> may require that <Company> stockholders approve this plan within twelve months of adoption, as well as any change under {Changes to the Plan}.
+        <Applicable Laws> may require that <Company> stockholders approve this plan within twelve months of adoption and any change under {Changes to the Plan}.
 
         \ Term of the Plan \
-        This plan starts when the <Board> adopts it and ends 10 years later. 
+        This plan starts when the <Board> adopts it and ends ten years later. 
         Subject to {When Participants Must Agree to Changes}, the <Board> may terminate this plan earlier.
 
         \ Changes to the Plan \
-        Subject to {When Participants Must Agree to Changes} and any legal requirements, the <Board> may change this plan over time.
+        Subject to {When Participants Must Agree to Changes} and any <Applicable Laws>, the <Board> may change this plan over time.
 
         \ Terms for Foreign Participants \
-        The <Administrator> may approve additions to this plan with terms to accommodate legal, tax, policy, and custom differences for <Awards> subject to foreign law. 
+        The <Administrator> may approve additions to this plan with terms to accommodate legal, tax, policy, and other differences for <Awards> subject to foreign law. 
         The terms of additions trump the terms of this plan as needed to accommodate those differences. 
-        They will not have any other effect on this plan or other <Awards>.
+        They will not have any other effect on this plan or <Awards>.
 
     \ Definitions \
 
