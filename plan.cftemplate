@@ -53,7 +53,7 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to grant
 
     \ Administration \
 
-        \ Who Administers this Plan? \
+        \ Who Administers this Plan \
         The <Board> decides who administers this plan as <Administrator>. 
         The <Board> may:
 
@@ -502,7 +502,7 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to grant
             to get funding for the <Company> in a <Board>-approved financing
 
         \\
-        ""Committee"" means at least one committee or subcommittee of the <Board>, with at least the minimum number of <Director> members required by <Applicable Laws>, that the <Board> appointed to administer this plan under {Who Administers this Plan?}.
+        ""Committee"" means at least one committee or subcommittee of the <Board>, with at least the minimum number of <Director> members required by <Applicable Laws>, that the <Board> appointed to administer this plan under {Who Administers this Plan}.
 
         \\
         ""Consultant"" (plural, ""Consultants"") means any person or legal entity that provides or has provided services for the <Company> or any <Parent>, <Subsidiary>, or <Affiliate>, for compensation. 
