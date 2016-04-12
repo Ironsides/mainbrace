@@ -121,6 +121,13 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
         To receive payment, those covered must give the <Company> a chance to take over defending the legal action, at <Company> expense, before they start defending it themselves. 
         This indemnification right does not replace or limit any other rights to indemnification those covered may have.
 
+        \ Issuing Stock \
+        Despite any term of this plan or any <Award Packet>, the <Company> will not issue any <Stock> under this plan unless the <Company>, with its lawyers, decides that doing so would be legal. 
+        The <Company> will not be liable to anyone for delaying or refusing to issue shares in a way it believes would break the law. 
+        If the <Company>'s lawyers request, the <Company> may requires a <Participant> to make representations and warranties at the time they exercise an <Option> or buy <Restricted Stock> to comply with the law and requirements for securities laws exemptions. 
+        # TODO Necessary to restate
+        <Stock> received by exercising an <Option> or buying <Restricted Stock>, before the <Company>'s <Stock> becomes a <Listed Security>, is subject to <Company> rights of first refusal per the <Award Packet>.
+
     \ When Participants Must Agree to Changes \
     The <Administrator> may not make any change to an <Awards> or <Award Packet> with significant negative effects on the <Participant>, unless they agree.
 
@@ -378,13 +385,6 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
 
     \ No Employment Rights \
     Neither this plan, its definition of <Cause>, nor any <Award> under it give anyone any right to continued employment or contract work.
-
-    \ Issuing Stock \
-    Despite any term of this plan or any <Award Packet>, the <Company> will not issue any <Stock> under this plan unless the <Company>, with its lawyers, decides that doing so would be legal. 
-    The <Company> will not be liable to anyone for delaying or refusing to issue shares in a way it believes would break the law. 
-    If the <Company>'s lawyers request, the <Company> may requires a <Participant> to make representations and warranties at the time they exercise an <Option> or buy <Restricted Stock> to comply with the law and requirements for securities laws exemptions. 
-    # TODO Necessary to restate
-    <Stock> received by exercising an <Option> or buying <Restricted Stock>, before the <Company>'s <Stock> becomes a <Listed Security>, is subject to <Company> rights of first refusal per the <Award Packet>.
 
     \ Beneficiaries \
     With the <Company>'s prior written permission, a <Participant> may designate beneficiaries for an <Award> by filing a <Company>-approved form. 
