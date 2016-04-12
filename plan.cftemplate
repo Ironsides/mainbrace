@@ -131,9 +131,23 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
     \ When Participants Must Agree to Changes \
     The <Administrator> may not make any change to an <Awards> or <Award Packet> with significant negative effects on the <Participant>, unless they agree.
 
-    \ Who Can Get Which Kinds of Awards? \
-    The <Administrator> may give <Nonstatutory Stock Options> and <Restricted Stock> to <Consultants>, <Employees> of the <Company>, and <Employees> of <Affiliates>. 
-    The <Administrator> may only give <Incentive Stock Options> to <Employees> of the <Company>.
+    \ Awards Generally \
+
+        \ Who Can Get Which Kinds of Awards? \
+        The <Administrator> may give <Nonstatutory Stock Options> and <Restricted Stock> to <Consultants>, <Employees> of the <Company>, and <Employees> of <Affiliates>. 
+        The <Administrator> may only give <Incentive Stock Options> to <Employees> of the <Company>.
+
+        \ Award Dates \
+        The <Administrator> decides what date counts as the date of an <Award>. 
+        By default, the date of an <Award> is the date the <Administrator> decided to grant the <Award>.
+
+        \ No Employment Rights \
+        Neither this plan, its definition of <Cause>, nor any <Award> under it give anyone any right to continued employment or contract work.
+
+        \ Beneficiaries \
+        With the <Company>'s prior written permission, a <Participant> may designate beneficiaries for an <Award> by filing a <Company>-approved form. 
+        Once a <Participant> has designated a beneficiary, the <Participant> may change their designation by filing a <Company>-approved form. 
+        Unless an <Award Packet> says otherwise, if a deceased <Participant> does not designate a beneficiary for the <Award> who survives them, the <Award> goes to those entitled under the <Participant>'s will or under the inheritance law.
 
     \ Options \
 
@@ -378,18 +392,6 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
                 \\ the purchase price
             The <Company> may require additional information of the <Participant>. 
             The <Participant>'s request will also fall under any right of first refusal, transfer provision, or other term of their <Award Packet>.
-
-    \ Award Dates \
-    The <Administrator> decides what date counts as the date of an <Award>. 
-    By default, the date of an <Award> is the date the <Administrator> decided to grant the <Award>.
-
-    \ No Employment Rights \
-    Neither this plan, its definition of <Cause>, nor any <Award> under it give anyone any right to continued employment or contract work.
-
-    \ Beneficiaries \
-    With the <Company>'s prior written permission, a <Participant> may designate beneficiaries for an <Award> by filing a <Company>-approved form. 
-    Once a <Participant> has designated a beneficiary, the <Participant> may change their designation by filing a <Company>-approved form. 
-    Unless an <Award Packet> says otherwise, if a deceased <Participant> does not designate a beneficiary for the <Award> who survives them, the <Award> goes to those entitled under the <Participant>'s will or under the inheritance law.
 
     \ The Plan \
 
