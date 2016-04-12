@@ -73,8 +73,8 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
 
         \ Changing Who Administers the Plan \
         The <Board> may change who administers this plan over time. 
-        If the <Board> uses a <Board> committee to administer any part of this plan, the <Board> may add, remove, and replace committee members, and dissolve the committee as a whole, as the law allows. 
-        If the <Board> has a <Board> committee administer this plan under <Rule 16b-3> (Transactions between an issuer and its officers or directors) or section 162(m) of the <Tax Code> (Certain excessive employee remuneration), the <Board> must follow those laws in making changes to the committee, too.
+        If the <Board> uses a <Board> committee to administer any part of this plan, the <Board> may add, remove, and replace committee members, and dissolve the committee as a whole, as the <Applicable Laws> allow. 
+        If the <Board> has a <Committee> administer this plan under <Rule 16b-3> (Transactions between an issuer and its officers or directors) or section 162(m) of the <Tax Code> (Certain excessive employee remuneration), the <Board> must follow those laws in making changes to the <Committee>, too.
 
         \ What the Administrator Does \
         Subject to {When Participants Must Agree to Changes}:
@@ -123,8 +123,8 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
 
         \ Issuing Stock \
         Despite any term of this plan or any <Award Packet>, the <Company> will not issue any <Stock> under this plan unless the <Company>, with its lawyers, decides that doing so would be legal. 
-        The <Company> will not be liable to anyone for delaying or refusing to issue shares in a way it believes would break the law. 
-        If the <Company>'s lawyers request, the <Company> may requires a <Participant> to make representations and warranties at the time they exercise an <Option> or buy <Restricted Stock> to comply with the law and requirements for securities laws exemptions. 
+        The <Company> will not be liable to anyone for delaying or refusing to issue shares in a way it believes would break <Applicable Laws>. 
+        If the <Company>'s lawyers request, the <Company> may requires a <Participant> to make representations and warranties at the time they exercise an <Option> or buy <Restricted Stock> to comply with <Applicable Laws> and requirements for securities laws exemptions. 
         # TODO Necessary to restate
         <Stock> received by exercising an <Option> or buying <Restricted Stock>, before the <Company>'s <Stock> becomes a <Listed Security>, is subject to <Company> rights of first refusal per the <Award Packet>.
 
@@ -186,7 +186,7 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
 
             \ Nonstatutory Stock Option Exercise Prices \
             Subject to {Adjustments} and {Special Exercise Prices}, the <Administrator> will decide the exercise price of each <Nonstatutory Stock Option>. 
-            If the exercise price of a <Nonstatutory Stock Option> is less than <Fair Market Value> on grant, the terms of the <Option> will abide by other laws, including section 409A of the <Tax Code> (Inclusion in gross income of deferred compensation...).
+            If the exercise price of a <Nonstatutory Stock Option> is less than <Fair Market Value> on grant, the terms of the <Option> will abide by other <Applicable Laws>, including section 409A of the <Tax Code> (Inclusion in gross income of deferred compensation...).
 
             \ Special Exercise Prices \
             The <Administrator> can set lower exercise prices pursuant to a merger or other corporate transaction.
@@ -269,7 +269,7 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
             \\ the number of shares they can buy
             \\ the price, if any
             \\ the deadline for deciding whether to buy
-        The <Administrator> decides the price, and may also grant <Restricted Stock> free of charge within the law. 
+        The <Administrator> decides the price, and may also grant <Restricted Stock> free of charge within <Applicable Laws>. 
         A <Participant> accepts an offer to buy <Restricted Stock> by entering a form <Restricted Stock Packet> approved by the <Administrator>.
 
         \ Payment for Restricted Stock \
@@ -285,7 +285,7 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
 
             \ Buyback and Leave \
             By default, lapsing of any <Company> buyback right pauses during unpaid leave and continues during paid leave. 
-            The <Administrator> may decide to pause or continue lapsing of any <Company> buyback right in a different way at any time, as the law allows. 
+            The <Administrator> may decide to pause or continue lapsing of any <Company> buyback right in a different way at any time, as <Applicable Laws> allow. 
             Lapsing of any <Company> buyback right pauses during unpaid military leave. 
             But when a <Participant> returns from military leave with rights under the Uniform Services Employment and Reemployment Rights Act, they receive the same lapsing credit for <Restricted Stock> they would have received if they had continued providing service during military leave as they had before military leave.
 
@@ -304,14 +304,14 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
         The <Company> will not issue <Stock> until tax obligations are covered.
 
         \ Cashless Exercise \
-        As the law allows, the <Administrator> allow a <Participant> to cover all or part of their tax obligations through a <Cashless Exercise Program> and surrendering shares the <Participant> already owns. 
+        As <Applicable Laws> allow, the <Administrator> allow a <Participant> to cover all or part of their tax obligations through a <Cashless Exercise Program> and surrendering shares the <Participant> already owns. 
         Unless the <Company> gives specific permission, every transaction under a <Cashless Exercise Program> must either be broker-assisted or limited to avoid financial accounting charges, and the <Participant> must have held shares surrendered under a <Cashless Exercise Program> for enough time to avoid financial accounting charges. 
-        Laws and regulations may impose other restrictions on paying tax by surrendering shares.
+        <Applicable Laws> may impose other restrictions on paying tax by surrendering shares.
 
     \ Adjustments \
 
         \ Automatic Adjustment \
-        Subject to any stockholder approval required by law, all <Stock-Related Attributes> under this plan are automatically adjusted, proportionally, whenever the <Company> makes a <Stock Change>.
+        Subject to any stockholder approval required by <Applicable Laws>, all <Stock-Related Attributes> under this plan are automatically adjusted, proportionally, whenever the <Company> makes a <Stock Change>.
 
         \ Adjustment by the Administrator \
         The <Administrator> may adjust any <Stock-Related Attributes> as it thinks appropriate whenever the <Company> does a <Reorganization>. 
@@ -396,7 +396,7 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
     \ The Plan \
 
         \ Stockholder Approval \
-        The law may require this plan be approved by <Company> stockholders within twelve months of adoption, as well as any change under {Changes to the Plan}.
+        <Applicable Laws> may require this plan be approved by <Company> stockholders within twelve months of adoption, as well as any change under {Changes to the Plan}.
 
         \ Term of the Plan \
         This plan starts when the <Board> adopts it and ends 10 years later. 
