@@ -379,13 +379,6 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
     \ No Employment Rights \
     Neither this plan, its definition of <Cause>, nor any <Award> under it give anyone any right to continued employment or contract work.
 
-    \ Term of the Plan \
-    This plan starts when the <Board> adopts it and ends 10 years later. 
-    Subject to {When Participants Must Agree to Changes}, the <Board> may terminate this plan earlier.
-
-    \ Changes to the Plan \
-    Subject to {When Participants Must Agree to Changes} and any legal requirements, the <Board> may change this plan over time.
-
     \ Issuing Stock \
     Despite any term of this plan or any <Award Packet>, the <Company> will not issue any <Stock> under this plan unless the <Company>, with its lawyers, decides that doing so would be legal. 
     The <Company> will not be liable to anyone for delaying or refusing to issue shares in a way it believes would break the law. 
@@ -398,13 +391,22 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
     Once a <Participant> has designated a beneficiary, the <Participant> may change their designation by filing a <Company>-approved form. 
     Unless an <Award Packet> says otherwise, if a deceased <Participant> does not designate a beneficiary for the <Award> who survives them, the <Award> goes to those entitled under the <Participant>'s will or under the inheritance law.
 
-    \ Stockholder Approval \
-    The law may require this plan be approved by <Company> stockholders within twelve months of adoption, as well as any change under {Changes to the Plan}.
+    \ The Plan \
 
-    \ Terms for Foreign Participants \
-    The <Administrator> may approve additions to this plan with terms to accommodate legal, tax, policy, and custom differences for <Awards> subject to foreign law. 
-    The terms of additions trump the terms of this plan as needed to accommodate those differences. 
-    They will not have any other effect on this plan or other <Awards>.
+        \ Stockholder Approval \
+        The law may require this plan be approved by <Company> stockholders within twelve months of adoption, as well as any change under {Changes to the Plan}.
+
+        \ Term of the Plan \
+        This plan starts when the <Board> adopts it and ends 10 years later. 
+        Subject to {When Participants Must Agree to Changes}, the <Board> may terminate this plan earlier.
+
+        \ Changes to the Plan \
+        Subject to {When Participants Must Agree to Changes} and any legal requirements, the <Board> may change this plan over time.
+
+        \ Terms for Foreign Participants \
+        The <Administrator> may approve additions to this plan with terms to accommodate legal, tax, policy, and custom differences for <Awards> subject to foreign law. 
+        The terms of additions trump the terms of this plan as needed to accommodate those differences. 
+        They will not have any other effect on this plan or other <Awards>.
 
     \ Definitions \
 
