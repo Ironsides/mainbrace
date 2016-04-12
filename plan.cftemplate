@@ -331,16 +331,16 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
         \ Transfer Limits on Awards \
 
             \ No Transferring Awards \
-            Other than under {Transfer by Will and Inheritance}, {While the Company Relies on 12h-1(f)},and {Transfers to Trusts}, no one may <Transfer an Award>.
+            Other than under {Transfer by Will and Inheritance}, {While the Company Relies on 12h-1(f)},and {Transfers to Trusts}, <Award Transfer> is not allowed.
 
-            \\ ""Transfer an Award"" means selling, pledging, assigning, or using any interest in an <Award> to secure a debt, taking a short position, taking a "put equivalent position" (as defined in Rule 16a-1(h) of the <Exchange Act>), or taking a "call equivalent position" (as defined in Rule 16a-1(b) of the <Exchange Act>). 
-            Naming a beneficiary does not <Transfer an Award>.
+            \\ ""Award Transfer"" means selling, pledging, assigning, or using any interest in an <Award> to secure a debt, taking a short position, taking a "put equivalent position" (as defined in Rule 16a-1(h) of the <Exchange Act>), or taking a "call equivalent position" (as defined in Rule 16a-1(b) of the <Exchange Act>). 
+            Naming a beneficiary is not an <Award Transfer>.
 
             \ Transfer by Will and Inheritance \
-            A <Participant> may <Transfer an Award> by will or under inheritance law.
+            <Award Transfer> by will or under inheritance law is allowed.
 
             \ While the Company Relies on 12h-1(f) \
-            With four exceptions, no one may <Transfer an Award> that is an <Option>, or any <Stock> under any <Option>, while the <Company> is relying on the securities law exemption under <Rule 12h-1(f)>. 
+            With four exceptions, <Award Transfer> of an <Option>, or any <Stock> under any <Option>, is not allowed while the <Company> relies on the securities law exemption under <Rule 12h-1(f)>. 
             The <Board> alone decides when the <Company> is relying on that exemption. 
             The exceptions are:
                 \\ transfer to <Family Members> by gift or under domestic relations orders
