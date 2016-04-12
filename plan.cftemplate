@@ -311,17 +311,17 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to grant
     \ Adjustments \
 
         \ Automatic Adjustment \
-        Subject to any stockholder approval required by <Applicable Laws>, all <Stock-Related Attributes> under this plan will be automatically adjusted, proportionally, whenever the <Company> makes a <Stock Change>.
+        Subject to any stockholder approval required by <Applicable Laws>, all <Stock Details and Figures> under this plan will be automatically adjusted, proportionally, whenever the <Company> makes a <Corporate Change Affecting Stock>.
 
         \ Adjustment by the Administrator \
-        The <Administrator> may adjust any <Stock-Related Attributes> as it thinks appropriate whenever the <Company> does a <Reorganization>. 
+        The <Administrator> may adjust any <Stock Details and Figures> as it thinks appropriate whenever the <Company> does a <Reorganization>. 
         The <Administrator>'s changes are final.
 
         \ No Other Adjustments \
-        Otherwise, the fact that the <Company> issues <Stock> or securities convertible to <Stock> will not affect or prompt any adjustment to any <Stock-Related Attributes> under any <Award>.
+        Otherwise, the fact that the <Company> issues <Stock> or securities convertible to <Stock> will not affect or prompt any adjustment to any <Stock Details and Figures> under any <Award>.
 
         \ Effect on Additional Stock \
-        Whenever a <Stock Change> or <Reorganization> leads to an adjustment of a <Participant>'s <Award> or <Award Packet> so that it covers more or different securities, those securities are subject to the same terms.
+        Whenever a <Corporate Change Affecting Stock> or <Reorganization> leads to an adjustment of a <Participant>'s <Award> or <Award Packet> so that it covers more or different securities, those securities are subject to the same terms.
 
         \ Dissolution and Liquidation \
         Unless the <Administrator> decides differently, every <Awards> terminates immediately before the <Company> dissolves or liquidates.
@@ -413,67 +413,67 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to grant
 
         \\
         ""Affiliate"" (plural, ""Affiliates"") means any non-<Subsidiary> legal entity either:
-            \\ controlled by a third party that also controls or the <Company>; or
-            \\ that the <Company> and its <Subsidiaries> controls.
+            \\ under common control with the <Company>
+            \\ <Controlled> by the <Company>, <Subsidiaries>, or the <Company> with <Subsidiaries>.
 
         \\
-        ""Administrator"" the group or groups who administer this plan.
+        ""Administrator"" means the group or groups who administer this plan.
 
         \\
         ""Applicable Laws"" means all the <Legal Rules> that apply in a situation. 
-        <Applicable Laws> includes United States federal, state, and local <Legal Rules>, as well as <Legal Rules> of any relevant <Stock Exchange>. 
+        <Applicable Laws> include United States federal, state, and local <Legal Rules>, as well as <Legal Rules> of any stock exchange or consolidated stock price reporting system quoting prices for <Stock>. 
         When foreign <Legal Rules> apply to an <Award>, <Applicable Laws> include those <Legal Rules>, too.
 
         \\
-        ""Award"" (plural, ""Awards"") means any award of an <Option> or <Restricted Stock> under this plan.
+        ""Award"" (plural, ""Awards"") means any grant of an <Option> or <Restricted Stock> under this plan.
 
         \\
         ""Award Packet"" means an <Option Packet> or <Restricted Stock Packet>.
 
         \\
-        ""Award Transfer"" means selling, pledging, assigning, or using any interest in an <Award> to secure a debt, taking a short position, taking a "put equivalent position" (as defined in Rule 16a-1(h) of the <Exchange Act>), or taking a "call equivalent position" (as defined in Rule 16a-1(b) of the <Exchange Act>). 
+        ""Award Transfer"" means selling, pledging, assigning, or using any interest in an <Award> to secure a debt. 
+        <Award Transfer> also means taking a short position, "put equivalent position" (as defined in Rule 16a-1(h) of the <Exchange Act>), or "call equivalent position" (as defined in Rule 16a-1(b) of the <Exchange Act>) for an <Award> or <Stock> under an <Award>. 
         Naming a beneficiary is not an <Award Transfer>.
 
         \\
         ""Board"" means the board of directors of the <Company>.
 
         \\
-        ""Cashless Exercise Program"" means an <Administrator>-approved program for paying the exercise price of an <Option>, or related tax obligations, partly or entirely with <Stock> under to the <Option>. 
-        Using a <Cashless Exercise Program> requires using a <Company>-approved for to give a securities broker an irrevocable direction to sell <Stock> and give proceeds to the <Company>.
+        ""Cashless Exercise Program"" means an <Administrator>-approved program for paying the exercise price of an <Option>, or related tax obligations, at least partly with <Stock> under the <Option>, using <Company>-approved forms irrevocable directions to securities brokers to sell <Stock> and give the <Company> proceeds.
 
         \\
         ""Cause"" means any of these:
 
             \\
-            The <Participant> broke a significant written agreement with the <Company>. 
+            A <Participant> broke a significant written agreement with the <Company>. 
             The <Company> wrote the <Participant> about it. 
             The <Participant> failed to fix the problem in thirty calendar days.
 
             \\
-            The <Participant> failed to comply with written <Company> policies or rules in a significant way.
+            A <Participant> failed to comply with written <Company> policies or rules in a significant way.
 
             \\
-            The <Participant> neglected or persistently performed their duties in an unsatisfactory way. 
+            A <Participant> neglected or persistently performed their duties in an unsatisfactory way. 
             The <Company> wrote the <Participant> about it. 
             The <Participant> failed to fix the problem in thirty calendar days.
 
             \\
-            The <Participant> repeatedly failed to follow reasonable, legal instructions from the <Board> or the <CEO>. 
+            A <Participant> repeatedly failed to follow reasonable, legal instructions from the <Board> or the <CEO>. 
             The <Company> wrote the <Participant> about it. 
             The <Participant> failed to fix the problem in thirty calendar days.
 
             \\
-            The <Participant> plead guilty to, or plead no contest to, or was convicted of a crime. 
+            A <Participant> plead guilty to, or plead no contest to, or was convicted of a crime. 
             That fact might do significant harm to the <Company>'s business or reputation.
 
             \\
-            The <Participant> defrauded or helped defraud the <Company>.
+            A <Participant> defrauded or helped defraud the <Company>.
 
             \\
-            The <Participant> intentionally did significant damage to the <Company>'s business, property, or reputation.
+            A <Participant> intentionally did significant damage to the <Company>'s business, property, or reputation.
 
             \\
-            The <Participant> broke an obligation not to use or disclose proprietary information or trade secrets the <Participant> learned through their relationship with the <Company>, without permission.
+            A <Participant> broke an obligation not to use or disclose proprietary information or trade secrets the <Participant> learned through their relationship with the <Company>, without permission.
 
         <Cause> does not mean death or <Disability>. 
 
@@ -499,161 +499,14 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to grant
             to get funding for the <Company> in a <Board>-approved financing
 
         \\
-        ""Committee"" means at least one committee or subcommittee of the <Board>, with at least the minimum number of <Director> members required by <Applicable Laws>, that the <Board> appointed to administer this plan under {Who Administers this Plan}.
+        ""Committee"" means at least one committee or subcommittee of the <Board>, with at least the minimum number of <Director> members required by <Applicable Laws>.
 
         \\
         ""Consultant"" (plural, ""Consultants"") means any person or legal entity that provides or has provided services for the <Company> or any <Parent>, <Subsidiary>, or <Affiliate>, for compensation. 
         An advisor is not a <Consultant>. 
         Neither is any <Employee>.
 
-        \\
-        ""Service to the Company"" means continuous service as an <Employee> or <Consultant>. 
-        <Service to the Company> is not considered ended when someone:
-            \\ goes on military leave or any kind of <Company>-approved leave
-            \\ transfers between <Company> locations
-            \\ transfers between the <Company>, its <Parents>, its <Subsidiaries>, its <Affiliates>, and any of their successor companies.
-            \\ changes from <Employee> to <Consultant> or vice-versa
-        But, for an <Incentive Stock Option>, the <Employee>'s <Service to the Company> as an <Employee> is considered ended after three months of leave, unless the leave is guaranteed under a contract, <Applicable Laws>, or a <Company> policy. 
-        When leave ends <Service to the Company> for an <Incentive Stock Option>, it automatically becomes a <Nonstatutory Stock Option> under <Applicable Laws>.
-
-        \\ ""Controlled"" means owning securities of a legal entity representing a majority of votes that can be cast.
-
-        \\ ""Corporate Transaction"" means any of:
-
-            \\
-            transfer of all or substantially all the <Company>'s assets
-
-            \\
-            merger, consolidation, other capital reorganization, or other business combination transaction of the <Company> with or into another legal entity
-
-            \\
-            the consummation of a transaction, or series of related transactions, in which any "person" (as used in sections 13(d) and 14(d) of the <Exchange Act>) becomes the "beneficial owner" (as defined in Rule 13d-3 of the <Exchange Act>), directly or indirectly, of more than fifty percent of the <Company>'s then outstanding capital stock
-
-        \\
-        ""Director"" means a member of the <Board>.
-
-        \\
-        ""Disability"" means being "permanently and totally disabled" under section 22(e)(3) of the <Tax Code>.
-
-        \\
-        ""Employee"" (plural, ""Employees"") means any person employed by the <Company> or any <Parent>, <Subsidiary>, or <Affiliate>. 
-        The <Company> alone decides what factors are considered to decide whether a person is employed under <Applicable Laws>, including the <Tax Code>. 
-        <Company> payment of a director's does not itself show that someone is employed.
-
-        \\
-        ""Exchange Act"" means the Securities Exchange Act of 1934.
-
-        \\
-        ""Fair Market Value"" means, as of any date, the per share fair market value of <Stock> as decided under {Determining Fair Market Value}. 
-
-        \\
-        ""Family Members"" means all of:
-            \\ children, stepchildren, grandchildren, parents, stepparents, grandparents, spouses, former spouses, siblings, children of siblings, parents-in-law, children-in-law, and siblings-in-law of a <Participant>, including relations by adoption
-            \\ people sharing a <Participant>'s household, other than tenants and employees
-            \\ trusts in which <Family Members> or the <Participant> have more than 50% of the beneficial interest
-            \\ foundations in which <Family Members> or the <Participant> control management of assets
-            \\ any other entities <Controlled> by <Family Members> or the <Participant>
-
-        \\
-        ""Incentive Stock Option"" (plural, ""Incentive Stock Options"") means an <Option> intentionally qualifying as an "incentive stock option" under section 422 of the <Tax Code>.
-
-        \\
-        ""Last Day"" means a <Participant>'s last full day of <Service to the Company>.
-
-        \\
-        ""Legal Rules"" means laws, rules, regulations, and other legal requirements.
-
-        \\
-        ""Listed Security"" means any <Company> security either:
-            \\ listed, or approved for listing, on a national securities exchange
-            \\ designated, or approved for designation, as a national market system security on an interdealer quotation system by FINRA or any successor to FINRA
-
-        \\
-        ""Nonstatutory Stock Option"" (plural, ""Nonstatutory Stock Options"") means an <Option> that is not an <Incentive Stock Option>.
-
-        \\
-        ""Option"" (plural, ""Options"") means an option to purchase <Stock> granted under this plan.
-
-        \\
-        ""Option Packet"" means a set of <Administrator>-approved form documents for the terms of an <Option>.
-
-        \\
-        ""Option Exchange Program"" means an <Administrator>-approved program for any of:
-
-            \\
-            exchanging <Options> for <Options> with a lower exercise price, <Restricted Stock>, cash, or other property
-
-            \\
-            amending <Options> to decrease their exercise price, due to a drop in <Fair Market Value>
-
-        \\
-        ""Parent"" (plural, ""Parents"") means any corporation the <Company> is <Controlled> by, any <Parent> of a <Parent>, and so on. 
-        A corporation can become a <Parent> after this plan is adopted or amended if it comes to meet this definition.
-
-        \\
-        ""Participant"" means any holder of an <Awards> or <Stock> issued under an <Award>.
-
-        \\
-        ""Pool"" means the allotment of <Stock> the <Administrator> may issue under this plan.
-
-        \\ ""Reorganization"" means any of these:
-
-            \\ the number of issued shares changes without the <Company> receiving any legal "consideration"
-
-            \\ the <Company> declares an extraordinary dividend for shares paid other than in shares with a significant effect on <Fair Market Value>
-
-            \\ recapitalization, including through a large nonrecurring cash dividend
-
-            \\ rights offering
-
-            \\ reorganization
-
-            \\ merger
-
-            \\ spin-off
-
-            \\ split-up
-
-            \\ change in corporate structure
-
-            \\ any other, similar occurrence
-
-        \\
-        ""Restricted Stock"" means <Stock> acquired under {Restricted Stock}.
-
-        \\
-        ""Restricted Stock Packet"" means a set of <Administrator>-approved form documents for the terms of <Restricted Stock>.
-
-        \\
-        ""Rule 12h-1(f)"" means Rule 12h-1(f) under the <Exchange Act>.
-
-        \\
-        ""Rule 16b-3"" means Rule 16b-3 under the <Exchange Act>.
-
-        \\
-        ""Secretary"" means the secretary of the <Company>.
-
-        \\
-        ""Securities Act"" means the Securities Act of 1933.
-
-        \\
-        ""Standard Payment Method"" means any of these payments methods:
-            \\ in cash
-            \\ by check
-            \\ if <Applicable Laws> allow, by promissory note with terms the <Administrator> decides
-            \\ by canceling debt
-            \\ by surrendering shares, for their <Fair Market Value>
-            \\ under a <Cashless Exercise Program>
-            \\ in any other legal way
-            \\ by any combination of these methods
-
-        \\
-        ""Starting Size of the Pool"" means the number of shares of <Stock> in the <Pool> when this plan is adopted.
-
-        \\
-        ""Stock"" means a shares of the <Company>'s common stock, as adjusted under {Adjustments}.
-
-        \\ ""Stock Change"" means all of these:
+        \\ ""Corporate Change Affecting Stock"" means all of these:
 
             \\ a stock split
 
@@ -670,9 +523,153 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to grant
             \\ a subdivision of shares
 
         \\
-        ""Stock Exchange"" means any stock exchange or consolidated stock price reporting system quoting prices for <Stock>.
+        ""Service to the Company"" means continuous service as an <Employee> or <Consultant>. 
+        <Service to the Company> is not considered ended when someone:
+            \\ goes on military leave or any kind of <Company>-approved leave
+            \\ transfers between <Company> locations
+            \\ transfers between the <Company>, its <Parents>, its <Subsidiaries>, its <Affiliates>, and any of their successor companies.
+            \\ changes from <Employee> to <Consultant> or vice-versa
+        But, for an <Incentive Stock Option>, the <Employee>'s <Service to the Company> as an <Employee> is considered ended after three months of leave, unless the leave is guaranteed under a contract, <Applicable Laws>, or a <Company> policy. 
+        When <Service to the Company> ends for an <Incentive Stock Option>, the <Incentive Stock Option> automatically becomes a <Nonstatutory Stock Option>.
 
-        \\ ""Stock-Related Attributes"" means all of these:
+        \\ ""Controlled"" means owning securities of a legal entity representing a majority of votes that can be cast.
+
+        \\ ""Corporate Transaction"" means any of:
+
+            \\
+            transfer of all or substantially all the <Company>'s assets
+
+            \\
+            merger, consolidation, other capital reorganization, or other business combination transaction of the <Company> with or into another legal entity
+
+            \\
+            consummation of a transaction, or series of related transactions, in which any "person" (as used in sections 13(d) and 14(d) of the <Exchange Act>) becomes the "beneficial owner" (as defined in Rule 13d-3 of the <Exchange Act>), directly or indirectly, of more than fifty percent of the <Company>'s then outstanding capital stock
+
+        \\
+        ""Director"" means a member of the <Board>.
+
+        \\
+        ""Disability"" means being "permanently and totally disabled" under section 22(e)(3) of the <Tax Code>.
+
+        \\
+        ""Employee"" (plural, ""Employees"") means any person employed by the <Company> or any <Parent>, <Subsidiary>, or <Affiliate>. 
+        The <Company> alone decides what factors to consider in deciding if someone is employed under <Applicable Laws>. 
+        Payment of a director's fee does not itself show that someone is employed.
+
+        \\
+        ""Exchange Act"" means the Securities Exchange Act of 1934.
+
+        \\
+        ""Fair Market Value"" means, as of any date, the per share fair market value of <Stock> as decided under {Determining Fair Market Value}. 
+
+        \\
+        ""Family Members"" means all of:
+            \\ children, stepchildren, grandchildren, parents, stepparents, grandparents, spouses, former spouses, siblings, children of siblings, parents-in-law, children-in-law, and siblings-in-law of a <Participant>, by consanguinity or adoption
+            \\ people sharing a <Participant>'s household who are not tenants or employees
+            \\ trusts in which <Family Members> or the <Participant> have more than fifty percent of the beneficial interest
+            \\ foundations in which <Family Members> or the <Participant> control management of assets
+            \\ any other entities <Controlled> by <Family Members> or the <Participant>
+
+        \\
+        ""Incentive Stock Option"" (plural, ""Incentive Stock Options"") means an <Option> intentionally qualifying as an "incentive stock option" under section 422 of the <Tax Code>.
+
+        \\
+        ""Last Day"" means a <Participant>'s last full day of <Service to the Company>.
+
+        \\
+        ""Legal Rules"" means laws, rules, regulations, and other legal requirements.
+
+        \\
+        ""Listed Security"" means any <Company> security either:
+            \\ listed, or approved for listing, on a national securities exchange
+            \\ designated, or approved for designation, as a national market system security on an interdealer quotation system, by FINRA or any successor to FINRA
+
+        \\
+        ""Nonstatutory Stock Option"" (plural, ""Nonstatutory Stock Options"") means an <Option> that is not an <Incentive Stock Option>.
+
+        \\
+        ""Option"" (plural, ""Options"") means an option granted under this plan to purchase <Stock>.
+
+        \\
+        ""Option Packet"" means a set of <Administrator>-approved form documents spelling out the terms of an <Option>.
+
+        \\
+        ""Option Exchange Program"" means an <Administrator>-approved program for any of:
+
+            \\
+            exchanging <Options> for <Options> with lower exercise prices, <Restricted Stock>, cash, or other property
+
+            \\
+            amending <Options> to decrease their exercise prices, due to a drop in <Fair Market Value>
+
+        \\
+        ""Parent"" (plural, ""Parents"") means any corporation the <Company> is <Controlled> by, any <Parent> of a <Parent>, and so on. 
+        A corporation can become a <Parent> after this plan is adopted if it meets this definition.
+
+        \\
+        ""Participant"" means any holder of an <Award> or <Stock> issued under an <Award>.
+
+        \\
+        ""Pool"" means the allotment of <Stock> the <Administrator> may issue under this plan.
+
+        \\ ""Reorganization"" means any of these:
+
+            \\ the number of issued shares changes without the <Company> receiving any legal "consideration"
+
+            \\ the <Company> declares an extraordinary dividend for <Stock> paid other than in <Stock>, with a significant effect on <Fair Market Value>
+
+            \\ recapitalization, through a large nonrecurring cash dividend or otherwise
+
+            \\ a rights offering
+
+            \\ a reorganization
+
+            \\ a merger
+
+            \\ a spin-off
+
+            \\ a split-up
+
+            \\ a change in corporate structure
+
+            \\ any other, similar transaction
+
+        \\
+        ""Restricted Stock"" means <Stock> acquired under {Restricted Stock}.
+
+        \\
+        ""Restricted Stock Packet"" means a set of <Administrator>-approved form documents spelling out the terms of <Restricted Stock>.
+
+        \\
+        ""Rule 12h-1(f)"" means Rule 12h-1(f) under the <Exchange Act>.
+
+        \\
+        ""Rule 16b-3"" means Rule 16b-3 under the <Exchange Act>.
+
+        \\
+        ""Secretary"" means the secretary of the <Company>.
+
+        \\
+        ""Securities Act"" means the Securities Act of 1933.
+
+        \\
+        ""Standard Payment Method"" means any of these payment methods:
+            \\ cash
+            \\ check
+            \\ if <Applicable Laws> allow, promissory note, with terms decided by the <Administrator>
+            \\ canceling debt
+            \\ surrendering shares, for their <Fair Market Value>
+            \\ use of a <Cashless Exercise Program>
+            \\ any other legal method
+            \\ any combination methods
+
+        \\
+        ""Starting Size of the Pool"" means the number of shares of <Stock> in the <Pool> when this plan is adopted.
+
+        \\
+        ""Stock"" means shares of the <Company>'s common stock, as adjusted under {Adjustments}.
+
+        \\ ""Stock Details and Figures"" means all of these:
 
             \\ the number and kind of securities in the <Pool>
 
@@ -685,13 +682,13 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to grant
         \\
         ""Stock Transfer"" means any transfer, read broadly, of any interest in <Stock> acquired under an <Award>. 
         Selling, gifting, placing in trust, pledging for a debt, or allowing a lien to apply to <Stock> are each an example of a <Stock Transfer>. 
-        So are transactions, like short sales, offsetting derivatives, futures, forward contracts, that significantly change the financial risk and benefits of owning <Stock>. 
+        So are transactions, like short sales, offsetting derivatives, futures, forward contracts, and other transactions that significantly change the financial risk and benefits of owning <Stock>and other transactions . 
         Giving another the right to vote or take other action as a stockholder, perhaps by proxy, is also a <Stock Transfer>. 
-        An agreement to do a <Stock Transfer> is itself a <Stock Transfer>.
+        And any agreement to do a <Stock Transfer> is itself a <Stock Transfer>.
 
         \\
         ""Subsidiary"" (plural, ""Subsidiaries"") means any corporation <Controlled> by the <Company>, any <Subsidiary> of a <Subsidiary>, and so on. 
-        A corporation can become a <Subsidiary> after this plan is adopted or amended if it comes to meet this definition.
+        A corporation becomes a <Subsidiary> after this plan is adopted if it meets this definition.
 
         \\
         ""Tax Code"" means the Internal Revenue Code of 1986.
