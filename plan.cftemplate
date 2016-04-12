@@ -27,8 +27,7 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
     \ Stock Pool \
 
         \ Stock in the Pool \
-        Under this plan, the <Administrator> may issue up to [Pool Stock] shares of <Stock> under <Awards>. 
-        This number is called the ""Pool"", and its starting size is called the ""Starting Size of the Pool"". 
+        Under this plan, the <Administrator> may issue up to [Pool Stock] shares of <Stock> under <Awards>, the <Pool>. 
         The <Administrator> may issue the whole <Pool> under <Incentive Stock Options> if it chooses.
 
         # Consider "recycle"
@@ -610,6 +609,9 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
         \\
         ""Participant"" means any holder of an <Awards> or <Stock> issued under an <Award>.
 
+        \\
+        ""Pool"" means the allotment of <Stock> the <Administrator> may issue under this plan.
+
         \\ ""Reorganization"" means any of these:
 
             \\ the number of issued shares changes without the <Company> receiving any legal "consideration"
@@ -649,6 +651,9 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
 
         \\
         ""Securities Act"" means the Securities Act of 1933.
+
+        \\
+        ""Starting Size of the Pool"" means the number of shares of <Stock> in the <Pool> when this plan is adopted.
 
         \\
         ""Stock"" means a shares of the <Company>'s common stock, as adjusted under {Adjustments}.
