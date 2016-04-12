@@ -71,8 +71,8 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
         But the <Board> may not allow <Company> officers to make <Awards> to those covered by section 16 of the <Exchange Act> (Directors, Officers, and Principal Stockholders).
 
         \ Changing Who Administers the Plan \
-        The <Board> may change who administers this plan over time. 
-        If the <Board> uses a <Board> committee to administer any part of this plan, the <Board> may add, remove, and replace committee members, and dissolve the committee as a whole, as the <Applicable Laws> allow. 
+        The <Board> may change the <Administrator> over time. 
+        If the <Board> makes a <Committee> the <Administrator> of any part of this plan, the <Board> may add, remove, and replace <Committee> members, and dissolve the <Committee> as a whole, as <Applicable Laws> allow. 
         If the <Board> has a <Committee> administer this plan under <Rule 16b-3> (Transactions between an issuer and its officers or directors) or section 162(m) of the <Tax Code> (Certain excessive employee remuneration), the <Board> must follow those laws in making changes to the <Committee>, too.
 
         \ What the Administrator Does \
@@ -85,13 +85,13 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
             The <Administrator> decides which <Company> <Employees> and <Consultants> receive <Awards>.
 
             \\
-            The <Administrator> decides the number of shares under each <Award>.
+            The <Administrator> decides the number of shares of <Stock> under each <Award>.
 
             \\
-            The <Administrator> approves form agreements for <Awards> and other documents under the plan.
+            The <Administrator> approves form agreements for <Awards> and other documents under this plan.
 
             \\
-            The <Administrator> decides the terms of <Awards>, within the guidelines of this plan.
+            The <Administrator> decides the terms of <Awards>, within the limits of this plan.
 
             \\
             The <Administrator> may amend agreements about <Stock> under <Options> and <Restricted Stock>.
@@ -100,19 +100,22 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
             The <Administrator> may decide to buy out options under {Option Buyout}.
 
             \\
+            The <Administrator> may set up and administer a <Cashless Exercise Program>.
+
+            \\
             The <Administrator> may set up and run an <Option Exchange Program> without additional <Company> stockholder approval.
 
             \\
-            The <Administrator> may add and change country-specific terms to this plan under {Terms for Foreign Participants}.
+            The <Administrator> may add terms to this plan under {Terms for Foreign Participants}.
 
             \\
-            The <Administrator> may decide what the terms of this plan, documents under this plan, and agreements and other documents for <Awards>, mean. 
+            The <Administrator> may decide what the terms of this plan, documents under this plan, <Award Packets>, and other other documents for <Awards>, mean. 
             The <Administrator>'s decisions on meaning apply to every <Participant>.
 
         \ Determining Fair Market Value \
         The <Administrator> alone decides <Fair Market Value>, in the way it thinks best. 
-        When possible, the <Administrator> decides <Fair Market Value> based on the marketing closing price of the <Stock> reported in The Wall Street Journal. 
-        The <Administrator>'s determination of <Fair Market Value> will apply, consistently, to every <Participant>.
+        When possible, the <Administrator> decides <Fair Market Value> based on the market closing price of the <Stock> reported in The Wall Street Journal. 
+        The <Administrator>'s determination of <Fair Market Value> applies, consistently, to every <Participant>.
 
         \ Indemnification \
         If anyone involved in administering this plan, as a member of the <Board>, a <Board> committee, or a <Company> officer, becomes involved in legal action related to this plan or an <Award> under it, the <Company> shall pay all the losses, costs, liability, judgments, and reasonable expenses they incur as a result. 
@@ -121,9 +124,9 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
         This indemnification right does not replace or limit any other rights to indemnification those covered may have.
 
         \ Issuing Stock \
-        Despite any term of this plan or any <Award Packet>, the <Company> will not issue any <Stock> under this plan unless the <Company>, with its lawyers, decides that doing so would be legal. 
-        The <Company> will not be liable to anyone for delaying or refusing to issue shares in a way it believes would break <Applicable Laws>. 
-        If the <Company>'s lawyers request, the <Company> may requires a <Participant> to make representations and warranties at the time they exercise an <Option> or buy <Restricted Stock> to comply with <Applicable Laws> and requirements for securities laws exemptions. 
+        Despite any term of this plan or any <Award Packet>, the <Company> will not issue any <Stock> under this plan unless the <Company>, with its lawyers, decides that doing so is allowed by <Applicable Laws>.
+        The <Company> will not be liable to anyone for delaying or refusing to issue <Stock> in a way it believes breaks <Applicable Laws>. 
+        If the <Company>'s lawyers request, the <Company> may require a <Participant> to make representations and warranties at the time they exercise an <Option> or buy <Restricted Stock> to comply with <Applicable Laws>, like requirements for securities laws exemptions. 
         # TODO Necessary to restate
         <Stock> received by exercising an <Option> or buying <Restricted Stock>, before the <Company>'s <Stock> becomes a <Listed Security>, is subject to <Company> rights of first refusal per the <Award Packet>.
 
