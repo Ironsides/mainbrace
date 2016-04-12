@@ -309,58 +309,9 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
         \ Proportional Adjustment \
         Subject to any stockholder approval required by law, all <Stock-Related Attributes> under this plan are automatically adjusted, proportionally, whenever the <Company> makes a <Stock Change>.
 
-        \\ ""Stock-Related Attributes"" means all of:
-
-            \\ number and kind of securities in the <Pool>
-
-            \\ number and kind of securities under any <Award>
-
-            \\ exercise price per share under any <Option>
-
-            \\ price per share under any <Company> buyback right under any <Award>
-
-        \\ ""Stock Change"" means all of:
-
-            \\ stock split
-
-            \\ reverse stock split
-
-            \\ stock dividend
-
-            \\ combination
-
-            \\ consolidation
-
-            \\ reclassification of shares
-
-            \\ subdivision of shares
-
         \\
         The <Administrator> may adjust any <Stock-Related Attributes> as it thinks appropriate whenever the <Company> does a <Reorganization>. 
         The <Administrator>'s changes are final.
-
-
-        \\ ""Reorganization"" means all of:
-
-            \\ the number of issued shares changes without the <Company> receiving any legal "consideration"
-
-            \\ the <Company> declares an extraordinary dividend for shares paid other than in shares with a significant effect on <Fair Market Value>
-
-            \\ recapitalization, including through a large nonrecurring cash dividend
-
-            \\ rights offering
-
-            \\ reorganization
-
-            \\ merger
-
-            \\ spin-off
-
-            \\ split-up
-
-            \\ change in corporate structure
-
-            \\ similar occurrence
 
         \\
         Otherwise, the fact that the <Company> issues stock or securities convertible to stock will not affects or prompt any adjustment to any <Stock-Related Attributes> under any <Award>.
@@ -663,6 +614,28 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
         \\
         ""Participant"" means any holder of an <Awards> or <Stock> issued under an <Award>.
 
+        \\ ""Reorganization"" means all of:
+
+            \\ the number of issued shares changes without the <Company> receiving any legal "consideration"
+
+            \\ the <Company> declares an extraordinary dividend for shares paid other than in shares with a significant effect on <Fair Market Value>
+
+            \\ recapitalization, including through a large nonrecurring cash dividend
+
+            \\ rights offering
+
+            \\ reorganization
+
+            \\ merger
+
+            \\ spin-off
+
+            \\ split-up
+
+            \\ change in corporate structure
+
+            \\ similar occurrence
+
         \\
         ""Restricted Stock"" means <Stock> acquired under {Restricted Stock}.
 
@@ -684,8 +657,34 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to give 
         \\
         ""Stock"" means a shares of <Common Stock>, as adjusted under {Adjustments}.
 
+        \\ ""Stock Change"" means all of:
+
+            \\ stock split
+
+            \\ reverse stock split
+
+            \\ stock dividend
+
+            \\ combination
+
+            \\ consolidation
+
+            \\ reclassification of shares
+
+            \\ subdivision of shares
+
         \\
         ""Stock Exchange"" means any stock exchange or consolidated stock price reporting system quoting prices for <Common Stock>.
+
+        \\ ""Stock-Related Attributes"" means all of:
+
+            \\ number and kind of securities in the <Pool>
+
+            \\ number and kind of securities under any <Award>
+
+            \\ exercise price per share under any <Option>
+
+            \\ price per share under any <Company> buyback right under any <Award>
 
         \\
         ""Subsidiary"" (plural, ""Subsidiaries"") means any corporation <Controlled> by the <Company>, any <Subsidiary> of a <Subsidiary>, and so on.
