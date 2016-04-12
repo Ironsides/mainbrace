@@ -350,7 +350,7 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to grant
 
         \ Transfer Limits on Awards \
 
-            \ No Transferring Awards \
+            \ No Award Transfer \
             Other than under {Transfer by Will and Inheritance}, {While the Company Relies on 12h-1(f)},and {Transfers to Trusts}, <Award Transfer> is not allowed.
 
             \ Transfer by Will and Inheritance \
@@ -363,33 +363,33 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to grant
                 \\ transfer to <Family Members> by gift or under domestic relations orders
                 \\ transfer to a <Participant>'s executor on death
                 \\ transfer to a <Participant>'s guardian on disability
-                \\ <Board>-approved transfer of <Nonstatutory Stock Options> to the <Company> in connection with an acquisition transaction per <Rule 12h-1(f)>
+                \\ per <Rule 12h-1(f)>, <Board>-approved transfer of <Nonstatutory Stock Options> to the <Company> in connection with an acquisition transaction
 
             \ Rule 12h-1(f) Disclosures \
-            The <Company> will provide every <Participant> the information required by Rule 701(e)(3), (4), and (5) of the <Securities Act> whenever the <Company> relies on the securities law exemption under <Rule 12h-1(f)>, to comply with the requirements of the exemption. 
+            Per <Rule 12h-1(f)>, the <Company> will provide every <Participant> the information required by Rule 701(e)(3), (4), and (5) of the <Securities Act> whenever the <Company> relies on the securities law exemption under <Rule 12h-1(f)>. 
             The <Company> may request that every <Participant> keep that information confidential. 
             If a <Participant> refuses to keep the information confidential, the <Company> will provide no more information than required by <Rule 12h-1(f)>.
 
             \ Transfers to Trusts \
-            The <Administrator> may allow a <Participant> to transfer a <Nonstatutory Stock Option> to a living trust or will trust, so long as the trust will gift the <Nonstatutory Stock Option> to <Family Members> or pass it to beneficiaries when the maker of the trust dies.
+            The <Administrator> may allow a <Participant> to transfer a <Nonstatutory Stock Option> to a living trust or will trust, so long as the trust is set up to gift the <Nonstatutory Stock Option> to <Family Members> or pass it to beneficiaries when the maker of the trust dies.
 
         \ Transfer Limits on Stock \
 
             \ No Transferring Stock \
-            <Stock Transfer> is not allowed, unless the <Company>'s specific permission, in writing and in advance. 
+            <Stock Transfer> is not allowed without the <Company>'s advance written permission. 
             The <Company> may refuse permission for a <Stock Transfer> for any reason. 
 
             \ Attempted Transfers \
             Any attempted <Stock Transfer> in violation of this plan has no legal effect. 
-            The <Company> will neither transfer shares under such a transfer on its books, nor treat the attempted recipient the as if they had rights as a stockholder.
+            The <Company> will neither transfer <Stock> on its books or with its transfer agent, nor treat the attempted recipient the as if they had rights as a stockholder.
 
             \ Approval Process \
             A <Participant> may request permission for a <Stock Transfer> by writing the <Secretary> with all of the following information: 
-                \\ their name
+                \\ the <Participant>'s name
                 \\ the name of the proposed recipient of <Stock>
-                \\ the number of shares of <Stock>
+                \\ the number of shares of <Stock> to be transferred
                 \\ the purchase price
-            The <Company> may require additional information of the <Participant>. 
+            The <Company> may require additional information. 
             The <Participant>'s request will also fall under any right of first refusal, transfer provision, or other term of their <Award Packet>.
 
     \ The Plan \
