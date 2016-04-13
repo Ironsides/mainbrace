@@ -1,0 +1,42 @@
+Congratulations, [Name]! 
+You've been granted an option to buy common stock!
+
+    \\
+    lets you buy up to [Shares] shares of [Company Name], a Delaware corporation, at [Exercise Price] per share
+
+    \\
+    was granted [Grant Date]
+
+    \\
+    starts vesting on [Vesting Start Date]
+
+    \\
+    will vest for [Cliff Shares] on [Cliff Date], and then for [Vesting Increment] more shares at the end of each calendar month
+
+    \\
+    (( if Early begin ))
+    lets you buy stock under your option both before and after it vests
+    (( end ))
+    (( unless Early begin ))
+    lets you buy stock under your option as it vests
+    (( end ))
+
+    \\
+    expires on [Expiration Date] at the very latest
+
+    \\
+    may expire earlier, three months after your <Last Day>, if your <Service to the Company> lasts less than two years
+
+    \\
+    may expire earlier, three months after your <Last Day>, if your <Service to the Company> lasts less than two years
+
+    \\
+    (( if ISO begin ))is an incentive stock option(( end )) 
+    (( unless ISO begin ))is a nonstatutory stock option(( end )) 
+    for tax purposes
+
+    \\
+    cannot be transferred, except under very specific circumstances described in the option agreement and the company's [Stock Plan Name]
+
+The attached option agreement and the company's [Stock Plan Name] spell out the terms of your option in detail. 
+They also define the terms ""Last Day"" and ""Service to the Company"".
