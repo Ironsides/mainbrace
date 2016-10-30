@@ -25,35 +25,35 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to grant
     \ Stock Pool \
 
         \ Stock in the Pool \
-        Under this plan, the <Administrator> may issue up to [Pool Stock] total shares of <Stock> under <Equity Awards>, the <Pool>. 
-        The <Administrator> may issue the whole <Pool> under <Incentive Stock Options> if it chooses.
+        Under this plan, the <Administrator> may issue up to [Pool Stock] total shares of <Stock> under <Equity Awards>, the <Stock Pool>. 
+        The <Administrator> may issue the whole <Stock Pool> under <Incentive Stock Options> if it chooses.
 
         # Consider "recycle"
         \ Returning Stock to the Pool \
-        Some <Stock> under <Equity Awards> may return to the <Pool>, to be recycled under new <Equity Awards>.
+        Some <Stock> under <Equity Awards> may return to the <Stock Pool>, to be recycled under new <Equity Awards>.
 
             \\
-            When an <Equity Award> expires before the <Company> issues all the <Stock> under it, the <Stock> the <Company> has not issued returns to the <Pool>.
+            When an <Equity Award> expires before the <Company> issues all the <Stock> under it, the <Stock> the <Company> has not issued returns to the <Stock Pool>.
 
             \\
-            When an <Equity Award> may no longer be exercised, any <Stock> under the <Equity Award> that the <Company> has not issued returns to the <Pool>.
+            When an <Equity Award> may no longer be exercised, any <Stock> under the <Equity Award> that the <Company> has not issued returns to the <Stock Pool>.
 
             \\
-            When an <Option> is traded in under an <Option Exchange Program>, the <Stock> under the <Option> returns to the <Pool>.
+            When an <Option> is traded in under an <Option Exchange Program>, the <Stock> under the <Option> returns to the <Stock Pool>.
 
             \\
-            When the <Company> holds back shares under a <Cashless Exercise Program>, the <Stock> the <Company> holds back returns to the <Pool>.
+            When the <Company> holds back shares under a <Cashless Exercise Program>, the <Stock> the <Company> holds back returns to the <Stock Pool>.
 
             \\
-            When <Restricted Stock> is forfeited to the <Company>, those shares return to the <Pool>.
+            When <Restricted Stock> is forfeited to the <Company>, those shares return to the <Stock Pool>.
 
             \\
-            When the <Company> uses a right to buy back <Restricted Stock>, those shares return to the <Pool>.
+            When the <Company> uses a right to buy back <Restricted Stock>, those shares return to the <Stock Pool>.
 
-        <Stock> stops returning to the <Pool> when this plan terminates.
+        <Stock> stops returning to the <Stock Pool> when this plan terminates.
 
         \ Adjusting the Size of the Pool \
-        The number of shares in the <Pool> may be adjusted under {Adjustments}. 
+        The number of shares in the <Stock Pool> may be adjusted under {Adjustments}. 
         But the <Administrator> may not issue more than the <Starting Size of the Pool> under <Incentive Stock Options> unless the <Tax Code> allows the <Administrator> to recycle more shares.
 
     \ Administration \
@@ -235,7 +235,7 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to grant
                 The <Company> has covered, or arranged to over, all tax obligations under {Tax}.
 
             # TODO Necessary?
-            Exercise reduces the number of shares under the <Option> and in the <Pool>.
+            Exercise reduces the number of shares under the <Option> and in the <Stock Pool>.
 
             \ Stockholder Rights from Options \
             A <Participant> exercising an <Option> does not have the right to vote, the right to receive dividends, or any other right as owner of the <Stock> they are purchasing until the <Company> issues the <Stock> and records their ownership in its corporate books or with its transfer agent. 
@@ -679,9 +679,6 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to grant
         ""Participant"" means any holder of an <Equity Award> or <Stock> issued under an <Equity Award>.
 
         \\
-        ""Pool"" means the allotment of <Stock> the <Administrator> may issue under this plan.
-
-        \\
         ""Reorganization"" means any of these:
 
             \\
@@ -760,7 +757,7 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to grant
             any combination methods
 
         \\
-        ""Starting Size of the Pool"" means the number of shares of <Stock> in the <Pool> when this plan is adopted.
+        ""Starting Size of the Pool"" means the number of shares of <Stock> in the <Stock Pool> when this plan is adopted.
 
         \\
         ""Stock"" means shares of the <Company>'s common stock, as adjusted under {Adjustments}.
@@ -769,7 +766,7 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to grant
         ""Stock Details and Figures"" means all of these:
 
             \\
-            the number and kind of securities in the <Pool>
+            the number and kind of securities in the <Stock Pool>
 
             \\
             the number and kind of securities under any <Equity Award>
@@ -779,6 +776,9 @@ This is a plan for ""Company"", [Company Name], a Delaware corporation, to grant
 
             \\
             the price per share under any <Company> buyback right under any <Equity Award>
+
+        \\
+        ""Stock Pool"" means the allotment of <Stock> the <Administrator> may issue under this plan.
 
         \\
         ""Stock Transfer"" means any transfer, read broadly, of any interest in <Stock> acquired under an <Equity Award>. 
