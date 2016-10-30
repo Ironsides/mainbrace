@@ -17,7 +17,7 @@ $(COMMONFORM) $(CFTEMPLATE):
 	doc2pdf $<
 
 %.docx: %.cform %.options %.sigs.json $(COMMONFORM)
-	$(COMMONFORM) render -f docx -i -l -s $*.sigs.json $(shell cat $*.options) < $*.cform > $@
+	$(COMMONFORM) render -f docx -i -l -p "____________________" -s $*.sigs.json $(shell cat $*.options) < $*.cform > $@
 
 %.md: %.cform %.options %.sigs.json $(COMMONFORM)
 	$(COMMONFORM) render -f markdown -s $*.sigs.json $(shell cat $*.options) < $*.cform > $@
